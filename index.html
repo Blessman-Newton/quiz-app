@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Political Economy Flashcards</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f9f9f9;
+      padding: 2rem;
+    }
+    .container {
+      max-width: 800px;
+      margin: auto;
+      background: #fff;
+      padding: 2rem;
+      border-radius: 8px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+    h1 {
+      font-size: 1.75rem;
+      margin-bottom: 1rem;
+    }
+    .progress-bar {
+      height: 8px;
+      background-color: #e5e5e5;
+      border-radius: 4px;
+      overflow: hidden;
+      margin-bottom: 1rem;
+    }
+    .progress-fill {
+      height: 100%;
+      background-color: #2563eb;
+    }
+    pre {
+      background: #f0f0f0;
+      padding: 0.75rem;
+      border-radius: 6px;
+      font-size: 0.9rem;
+    }
+    .option {
+      display: block;
+      width: 100%;
+      padding: 0.75rem;
+      margin: 0.5rem 0;
+      background: #f7f7f7;
+      border: 1px solid #ccc;
+      border-radius: 6px;
+      cursor: pointer;
+      text-align: left;
+    }
+    .correct {
+      background-color: #d4edda;
+      border-color: #28a745;
+      color: #155724;
+    }
+    .incorrect {
+      background-color: #f8d7da;
+      border-color: #dc3545;
+      color: #721c24;
+    }
+    .footer {
+      display: flex;
+      justify-content: space-between;
+      margin-top: 2rem;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Political Economy Flashcards</h1>
+    <div id="status"></div>
+    <div class="progress-bar">
+      <div id="progress" class="progress-fill" style="width: 0%"></div>
+    </div>
+    <div id="question" class="question"></div>
+    <pre id="equations"></pre>
+    <div id="options"></div>
+    <div id="answer"></div>
+    <div class="footer">
+      <button onclick="resetQuiz()">Reset</button>
+      <button onclick="nextQuestion()">Next</button>
+    </div>
+  </div>
+
+  <script>
+    let flashcards = [];
+
+    let current = 0;
+    let score = 0;
+
+    async function loadFlashcards() {
+      try {
+        const res = await fetch('question.json');
+        flashcards = await res.json();
+        // Shuffle flashcards
+        for (let i = flashcards.length - 1; i > 0; i--) {
+          const j = Math.floor(Math.random() * (i + 1));
+          [flashcards[i], flashcards[j]] = [flashcards[j], flashcards[i]];
+        }
+        current = 0;
+        score = 0;
+        loadQuestion();
+      } catch (e) {
+        document.getElementById("question").innerText = "Impossibile caricare le domande.";
+      }
+    }
+    function loadQuestion() {
+      if (!flashcards.length) return;
+      const card = flashcards[current];
+      document.getElementById("question").innerText = card.question;
+      document.getElementById("equations").innerText = card.context_equations ? card.context_equations.join("\n") : "";
+      document.getElementById("options").innerHTML = '';
+      document.getElementById("answer").innerHTML = '';
+      document.getElementById("status").innerText = `Question ${current + 1} of ${flashcards.length} | Score: ${score}/${current}`;
+      document.getElementById("progress").style.width = `${((current + 1) / flashcards.length) * 100}%`;
+
+      card.options.forEach(option => {
+        const btn = document.createElement("button");
+        btn.className = "option";
+        btn.innerText = option;
+        btn.onclick = () => handleSelect(btn, option, card.correct_answer);
+        document.getElementById("options").appendChild(btn);
+      });
+    }
+
+    function handleSelect(btn, option, correct) {
+      const buttons = document.querySelectorAll(".option");
+      buttons.forEach(b => b.disabled = true);
+      if (option === correct) {
+        btn.classList.add("correct");
+        score++;
+      } else {
+        btn.classList.add("incorrect");
+      }
+      document.getElementById("answer").innerHTML = `<strong>Risposta corretta:</strong> ${correct}`;
+    }
+
+    function nextQuestion() {
+      if (current < flashcards.length - 1) {
+        current++;
+        loadQuestion();
+      }
+    }
+
+    function resetQuiz() {
+      current = 0;
+      score = 0;
+      loadQuestion();
+    }
+
+    loadFlashcards();
+  </script>
+</body>
+</html>
+
