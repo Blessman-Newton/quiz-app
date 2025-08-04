@@ -1,0 +1,2546 @@
+[
+  {
+    "question": "A cosa è dovuto il monopolio naturale?",
+    "options": [
+      "-All’andamento decrescente del costo unitario nel tratto rilevante della domanda per la forte incidenza dei costi fissi.",
+      "- Alla costanza del costo marginale",
+      "-All’andamento crescente del costo unitario nel tratto rilevante della domanda per la forte incidenza dei costi.",
+      "-Al fatto che i costi marginali eccedono i costi medi a causa degli elevati costi fissi"
+    ],
+    "correct_answer": "-All’andamento decrescente del costo unitario nel tratto rilevante della domanda per la forte incidenza dei costi fissi."
+  },
+  {
+    "question": "Cosa rappresenta l’equazione (1) nella seguente rappresentazione della dinamica dei prezzi?",
+    "context_equations": [
+      "∆𝑤 =\t− 𝑎𝑢 + ∆𝑝",
+      "∆𝑝 = ∆𝑤 − ∆π + ∆(1 + 𝑔)",
+      "∆𝑝 + ∆π − ∆(1 + 𝑔) =− 𝑎𝑢 + ∆𝑝",
+      "∆𝑦 =\t− φ ∙ ∆u"
+    ],
+    "options": [
+      "-La curva di Phillips derivata",
+      "-La curva di Phillips originaria",
+      "-La legge di Okun",
+      "-L’equazione della fissazione dei prezzi (costo pieno)"
+    ],
+    "correct_answer": "-La curva di Phillips originaria"
+  },
+  {
+    "question": "Cosa rappresenta l’equazione (2) nella seguente rappresentazione della dinamica dei prezzi?",
+    "context_equations": [
+      "∆𝑤 =\t− 𝑎𝑢 + ∆𝑝",
+      "∆𝑝 = ∆𝑤 − ∆π + ∆(1 + 𝑔)",
+      "∆𝑝 + ∆π − ∆(1 + 𝑔) =− 𝑎𝑢 + ∆𝑝",
+      "∆𝑦 =\t− φ ∙ ∆u"
+    ],
+    "options": [
+      "-La curva di Phillips derivata",
+      "-La curva di Phillips originaria",
+      "-La legge di Okun",
+      "-L’equazione della fissazione dei prezzi (costo pieno)"
+    ],
+    "correct_answer": "-L’equazione della fissazione dei prezzi (costo pieno)"
+  },
+  {
+    "question": "Cosa rappresenta l’equazione (3) nella seguente rappresentazione della dinamica dei prezzi?",
+    "context_equations": [
+      "∆𝑤 =\t− 𝑎𝑢 + ∆𝑝",
+      "∆𝑝 = ∆𝑤 − ∆π + ∆(1 + 𝑔)",
+      "∆𝑝 + ∆π − ∆(1 + 𝑔) =− 𝑎𝑢 + ∆𝑝",
+      "∆𝑦 =\t− φ ∙ ∆u"
+    ],
+    "options": [
+      "-La curva di Phillips derivata",
+      "-La curva di Phillips originaria",
+      "-La legge di Okun",
+      "-L’equazione della fissazione dei prezzi (costo pieno)"
+    ],
+    "correct_answer": "-La curva di Phillips derivata"
+  },
+  {
+    "question": "Cosa rappresenta l’equazione (4) nella seguente rappresentazione della dinamica dei prezzi?",
+    "context_equations": [
+      "∆𝑤 =\t− 𝑎𝑢 + ∆𝑝",
+      "∆𝑝 = ∆𝑤 − ∆π + ∆(1 + 𝑔)",
+      "∆𝑝 + ∆π − ∆(1 + 𝑔) =− 𝑎𝑢 + ∆𝑝",
+      "∆𝑦 =\t− φ ∙ ∆u"
+    ],
+    "options": [
+      "-La curva di Phillips derivata",
+      "-La curva di Phillips originaria",
+      "-La legge di Okun",
+      "-L’equazione della fissazione dei prezzi (costo pieno)"
+    ],
+    "correct_answer": "-La legge di Okun"
+  },
+  {
+    "question": "Cosa evidenzia il dilemma di Triffin?",
+    "options": [
+      "-le difficoltà di perseguire simultaneamente l’equilibrio della bilancia dei pagamenti e del pieno impiego.",
+      "-le difficoltà che si frappongono a un paese che voglia rivolgersi al fondo monetario internazionale per un prestito, senza dover subire condizionamenti nella gestione della politica economica interna.",
+      "-Un difetto del sistema a cambio aureo: se il contenuto in oro della moneta di riserva è mantenuto costante, il sistema rischia di non fornire sufficiente liquidità internazionale.",
+      "-I problemi di sostenibilità del debito pubblico."
+    ],
+    "correct_answer": "-Un difetto del sistema a cambio aureo: se il contenuto in oro della moneta di riserva è mantenuto costante, il sistema rischia di non fornire sufficiente liquidità internazionale."
+  },
+  {
+    "question": "Quando si parla di beni pubblici impuri?",
+    "context_equations": [
+      "Quando i beni possono avere diversi gradi di non rivalità e non escludibilità"
+    ],
+    "options": [
+      "-quando la natura di bene pubblico dipende dalle condizioni dei mercati e dai livelli tecnologici raggiunti.",
+      "-Quando per essi lo Stato vuole assicurare un certo livello di consumo, al di là e al di sopra della quantità che ne viene autonomamente domandata dai vari individui.",
+      "-Quando si parla di beni associati a situazioni nelle quali l’azione di un operatore causa vantaggi o danni ad altri, senza che perciò si paghi un prezzo."
+    ],
+    "correct_answer": null
+  },
+  {
+    "question": "Quale tra queste affermazioni può essere considerata keynesiana?",
+    "options": [
+      "-un aumento della quantità di moneta in circolazione comporta un immediato pari aumento nel livello dei prezzi.",
+      "-La spesa per investimenti delle imprese dipende dalle aspettative e dagli umori degli imprenditori (animal spirits).",
+      "-La disoccupazione è sempre volontaria.",
+      "-Il sistema capitalistico è in grado di realizzare equilibri ottimali e stabili (piena occupazione)"
+    ],
+    "correct_answer": "-La spesa per investimenti delle imprese dipende dalle aspettative e dagli umori degli imprenditori (animal spirits)."
+  },
+  {
+    "question": "Quale tra queste affermazioni può essere considerata keynesiana?",
+    "options": [
+      "-Variazioni dei salari nominali risolvono il problema della disoccupazione.",
+      "-Il sistema capitalistico è in grado di realizzare equilibri ottimali e stabili (piena occupazione).",
+      "-un aumento della quantità di moneta in circolazione comporta un pari aumento nel livello dei prezzi.",
+      "-La velocità di circolazione della moneta è pro ciclica (cresce nelle espansioni e si riduce durante le recessioni.)",
+      "-visione liberista contro l’intervento pubblico. evidenziano l’efficienza del mercato",
+      "-visione liberista contro l’intervento pubblico, evidenziano l’efficienza del mercato e/o i fallimenti pubblici",
+      "-visione a favore dell’intervento pubblico, evidenziano i fallimenti del mercato",
+      "-visione a favore dell’intervento pubblico, evidenziano i fallimenti del mercato e/o i fallimenti pubblici"
+    ],
+    "correct_answer": "-visione a favore dell’intervento pubblico, evidenziano i fallimenti del mercato"
+  },
+  {
+    "question": "Quale tra le seguenti può essere definita come una politica dei redditi istituzionale?",
+    "options": [
+      "-Contenimento delle dinamiche inflazionistiche “premiato” dal governo attraverso incentivi fiscali.",
+      "-Aggravi fiscali o premi fiscali in funzione delle politiche di prezzo adottate dalle imprese (tax-based income policies).",
+      "-Blocco dei salari",
+      "-Obbligo esplicito di cooperazione o almeno arbitrato finale"
+    ],
+    "correct_answer": "-Obbligo esplicito di cooperazione o almeno arbitrato finale"
+  },
+  {
+    "question": "Quale tra le seguenti può essere definita come una politica dei redditi istituzionale?",
+    "options": [
+      "-Scambio politico (partecipazione del governo con propri impegni all’accordo: patto sociale)",
+      "-Aggravi fiscali o premi fiscali in funzione delle politiche di prezzo adottate dalle imprese (tax-based income policies)",
+      "-Contenimento delle dinamiche inflazionistiche “premiato” dal governo attraverso incentivi fiscali",
+      "-Blocco dei salari"
+    ],
+    "correct_answer": "-Scambio politico (partecipazione del governo con propri impegni all’accordo: patto sociale)"
+  },
+  {
+    "question": "Quali sono gli effetti di un dazio sul prezzo interno?",
+    "options": [
+      "-I consumatori interni troveranno più conveniente domandare il bene sul mercato estero B, nel mercato interno, si creerà quindi un eccesso di offerta che spingerà il prezzo verso il basso.",
+      "-I PRODUTTORI INTERNI TROVERANNO PIÙ CONVENIENTE OFFRIRE IL BENE SUL MERCATO ESTERO, NEL MERCATO INTERNO, SI CREERÀ QUINDI UN ECCESSO DI DOMANDA CHE SPINGERÀ IL PREZZO VERSO L'ALTO.",
+      "-I produttori esteri non troveranno più conveniente offrire il bene sul mercato interno, nel mercato interno, si creerà quindi un eccesso di domanda che spingerà il prezzo verso l’alto.",
+      "-I consumatori esteri non troveranno più conveniente domandare il bene sul mercato interno; nel mercato interno, si creerà quindi un eccesso di offerta che spingerà il prezzo verso il basso."
+    ],
+    "correct_answer": "-I produttori esteri non troveranno più conveniente offrire il bene sul mercato interno, nel mercato interno, si creerà quindi un eccesso di domanda che spingerà il prezzo verso l’alto."
+  },
+  {
+    "question": "Su quale fondamento si basa l’idea, riconducibile a Schumpeter, secondo la quale l’innovazione sarebbe favorita in mercati caratterizzati da elevato grado di concentrazione?",
+    "options": [
+      "-diversamente dalla concorrenza, dove si considera solo il profitto addizionale, il monopolista considera l’intero profitto della nuova tecnologia, alti i profitti del monopolista sono un incentivo all’adozione di nuove tecnologie",
+      "-il monopolista considera solo profitto addizionale della nuova tecnologia, alti profitti del monopolista (senza innovare) sono un disincentivo disincentivo all’adozione di nuove tecnologie.",
+      "-diversamente dalla concorrenza, dove si considera solo il profitto addizionale, il monopolista considera l’intero profitto della nuova tecnologia, quindi, solo in presenza di potere di mercato si potrà sfruttare il vantaggio di costo derivante dall’innovazione.",
+      "-Le innovazioni tecnologiche richiedono investimenti ingenti in ricerca, quindi, solo in presenza di potere di mercato si potrà sfruttare il vantaggio di costo derivante dall’innovazione."
+    ],
+    "correct_answer": "-Le innovazioni tecnologiche richiedono investimenti ingenti in ricerca, quindi, solo in presenza di potere di mercato si potrà sfruttare il vantaggio di costo derivante dall’innovazione."
+  },
+  {
+    "question": "Cosa afferma il criterio paretiano?",
+    "options": [
+      "-Il benessere sociale in uno Stato del mondo A è maggiore di quello in uno stato B se almeno un individuo sta meglio in A che in B senza che nessun altro stia peggio.",
+      "-Uno stato del mondo è un ottimo paretiano se non ne esiste un altro in cui un individuo sta meglio e nessun altro stia peggio.",
+      "-Assumendo un insieme completo di mercati, un equilibrio concorrenziale, se esiste, è un ottimo paretiano.",
+      "-Assumendo un insieme completo di mercati, ogni posizione di ottimo paretiano può essere realizzata come equilibrio concorrenziale, previa un’appropriata redistribuzione delle risorse tra individui."
+    ],
+    "correct_answer": "-Il benessere sociale in uno Stato del mondo A è maggiore di quello in uno stato B se almeno un individuo sta meglio in A che in B senza che nessun altro stia peggio."
+  },
+  {
+    "question": "Cosa si intende per politica monetaria accomodante?",
+    "options": [
+      "-Aumentare la base monetaria in modo da ridurre il tasso di interesse iniziale per sostenere l’aumento del reddito indotto dalla maggiore spesa pubblica.",
+      "-Aumentare la base monetaria in modo da assicurare l’invarianza del tasso di interesse, malgrado l’aumento di domanda di moneta indotto dalla maggiore spesa pubblica.",
+      "-Ridurre la base monetaria in modo da assicurare l’invariante del tasso di interesse, a seguito dell’aumento di domanda di moneta indotto dalla maggiore spesa pubblica",
+      "-Ridurre la base monetaria in modo da ridurre il tasso di interesse iniziale per sostenere l’aumento del reddito indotto dalla maggiore spesa pubblica."
+    ],
+    "correct_answer": "-Aumentare la base monetaria in modo da assicurare l’invarianza del tasso di interesse, malgrado l’aumento di domanda di moneta indotto dalla maggiore spesa pubblica."
+  },
+  {
+    "question": "Chi sono gli intermediari finanziari? Soggetti che mettono in collegamento le unità in:",
+    "options": [
+      "-deficit, che risparmiano con le unità in surplus che domandano credito",
+      "-surplus, che risparmiano (famiglie) con le unità in deficit (imprese), che domandano credito",
+      "-surplus, che domandano credito con le unità in deficit, che risparmiano.",
+      "-deficit, che domandano credito con le unità in surplus, che risparmiano."
+    ],
+    "correct_answer": "-surplus, che risparmiano (famiglie) con le unità in deficit (imprese), che domandano credito"
+  },
+  {
+    "question": "Cosa si intende per aspettative razionali? Gli operatori hanno aspettative razionali:",
+    "options": [
+      "-Nel senso che le informazioni su cui basano le proprie scelte e formano le proprie aspettative sono complete.",
+      "-nel senso che sfruttano tutte le informazioni disponibili, che non necessariamente sono complete.",
+      "-quando indovinano correttamente le previsioni su variabili rilevanti per i loro problemi di massimizzazione o minimizzazione.",
+      "-nel senso che non sbagliano mai le proprie previsioni."
+    ],
+    "correct_answer": "-nel senso che sfruttano tutte le informazioni disponibili, che non necessariamente sono complete."
+  },
+  {
+    "question": "Come le politiche macroeconomiche possono influire sulle partite correnti attraverso variazioni della domanda interna?",
+    "context_equations": [
+      "La crescita delle spese sociali verificatisi storicamente nella generalità dei paesi sviluppati è spiegata anche:"
+    ],
+    "options": [
+      "-Dato un avanzo, solo se vale Marshall Lerner, una politica espansiva aumenta Y e quindi le importazioni e riducendo l’avanzo.",
+      "-Dato un avanzo, una politica espansiva aumenta Y e quindi riduce le esportazioni riducendo l’avanzo.",
+      "-Dato un avanzo, una politica espansiva aumenta Y e quindi le importazioni riducendo l’avanzo.",
+      "-Dato un avanzo, solo se vale Marshall Lerner, una politica espansiva aumenta Y e quindi riduce le esportazioni riducendo l’avanzo.",
+      "-dal fatto che la richiesta di beni e servizi sociali ha avuto una crescita proporzionale a quella del reddito pro capite",
+      "-dal fatto che la produzione di beni e servizi sociali è intrinsecamente meno idonea ad usufruire dei miglioramenti produttivi indotti dallo sviluppo tecnologico",
+      "-dal fatto che la richiesta di beni e servizi sociali avuto una crescita proporzionale a quella demografica",
+      "-dal fatto che la produzione di beni e servizi sociali si è accompagnata allo sviluppo tecnologico che ha pervaso tutti i settori produttivi"
+    ],
+    "correct_answer": "-dal fatto che la produzione di beni e servizi sociali è intrinsecamente meno idonea ad usufruire dei miglioramenti produttivi indotti dallo sviluppo tecnologico"
+  },
+  {
+    "question": "Nella seguente rappresentazione del modello IS/LM, cosa indica la grandezza C?",
+    "context_equations": [
+      "Y= C + I + G",
+      "C= c •Y",
+      "I= 𝑙  − 𝑎∙𝑖",
+      "M/p= k•Y +𝑙  − 𝑣∙i"
+    ],
+    "options": [
+      "-Un parametro",
+      "-Una variabile endogena",
+      "-Uno disturbo stocastico (shock)",
+      "-Una variabile esogena"
+    ],
+    "correct_answer": "-Una variabile endogena"
+  },
+  {
+    "question": "Nella seguente rappresentazione del modello IS/LM, cosa indica la grandezza Y?",
+    "context_equations": [
+      "Y= C + I + G",
+      "C= c •Y",
+      "I= 𝑙  − 𝑎∙𝑖",
+      "M/p= k•Y +𝑙  − 𝑣∙i"
+    ],
+    "options": [
+      "-Un parametro",
+      "-Una variabile endogena",
+      "-Uno disturbo stocastico (shock)",
+      "-Una variabile esogena"
+    ],
+    "correct_answer": "-Una variabile endogena"
+  },
+  {
+    "question": "Nella seguente rappresentazione del modello IS/LM, cosa indica la grandezza i?",
+    "context_equations": [
+      "Y= C + I + G",
+      "C= c •Y",
+      "I= 𝑙  − 𝑎∙𝑖",
+      "M/p= k•Y +𝑙  − 𝑣∙i"
+    ],
+    "options": [
+      "-Un parametro",
+      "-Una variabile endogena",
+      "-Uno disturbo stocastico (shock)",
+      "-Una variabile esogena"
+    ],
+    "correct_answer": "-Una variabile endogena"
+  },
+  {
+    "question": "Nella seguente rappresentazione del modello IS/LM, cosa indica la grandezza v?",
+    "context_equations": [
+      "Y= C + I + G",
+      "C= c •Y",
+      "I= 𝑙  − 𝑎∙𝑖",
+      "M/p= k•Y +𝑙  − 𝑣∙i"
+    ],
+    "options": [
+      "-Un parametro",
+      "-Una variabile endogena",
+      "-Uno disturbo stocastico (shock)",
+      "-Una variabile esogena"
+    ],
+    "correct_answer": "-Un parametro"
+  },
+  {
+    "question": "Nella seguente rappresentazione del modello IS/LM, cosa indica la grandezza p?",
+    "context_equations": [
+      "Y= C + I + G",
+      "C= c •Y",
+      "I= 𝑙  − 𝑎∙𝑖",
+      "M/p= k•Y +𝑙  − 𝑣∙i"
+    ],
+    "options": [
+      "-Un parametro",
+      "-Una variabile endogena",
+      "-Uno disturbo stocastico (shock)",
+      "-Una variabile esogena"
+    ],
+    "correct_answer": "-Un parametro"
+  },
+  {
+    "question": "Nella seguente rappresentazione del modello IS/LM, cosa indica la grandezza G?",
+    "context_equations": [
+      "Y= C + I + G",
+      "C= c •Y",
+      "I= 𝑙  − 𝑎∙𝑖",
+      "M/p= k•Y +𝑙  − 𝑣∙i"
+    ],
+    "options": [
+      "-Un parametro",
+      "-Una variabile endogena",
+      "-Uno disturbo stocastico (shock)",
+      "-Una variabile esogena"
+    ],
+    "correct_answer": "-Una variabile esogena"
+  },
+  {
+    "question": "Nella seguente rappresentazione del modello IS/LM, cosa indica la grandezza M?",
+    "context_equations": [
+      "Y= C + I + G",
+      "C= c •Y",
+      "I= 𝑙0 − 𝑎∙𝑖",
+      "M/p= k•Y +𝑙0 − 𝑣∙i"
+    ],
+    "options": [
+      "-Un parametro",
+      "-Una variabile endogena",
+      "-Uno disturbo stocastico (shock)",
+      "-Una variabile esogena"
+    ],
+    "correct_answer": "-Una variabile esogena"
+  },
+  {
+    "question": "Nella seguente rappresentazione del modello IS/LM, cosa indica la grandezza c?",
+    "context_equations": [
+      "Y= C + I + G",
+      "C= c •Y",
+      "I= 𝑙  − 𝑎∙𝑖",
+      "M/p= k•Y +𝑙  − 𝑣∙i",
+      "Se la propensione al risparmio è pari a 0,3 una riduzione delle tasse (in somma fissa) a 64 genera un incremento di reddito pari a:",
+      "FORMULA DA APPLICARE ANCHE PER I SEGUENTI: ((1/S) *T)-T ((1/S) *T)-T= (1 / 0.3 )*64 - 64 = 149,33",
+      "S= propensione al risparmio",
+      "Se la propensione al risparmio è pari a 0,7 una riduzione delle tasse (in somma fissa) a 71 genera un incremento di reddito pari a:",
+      "((1/S) *T)-T= ( 1/0,7)*71-71 = 30.43",
+      "S= propensione al risparmio",
+      "Se la propensione al risparmio è pari a 0,7 una riduzione delle tasse (in somma fissa) a 78 genera un incremento di reddito pari a:",
+      "((1/S)*T)-T= (1/0.7)*78)-78= 33.43",
+      "S= propensione al consumo",
+      "Se la propensione al risparmio è pari a 0,6 una riduzione delle tasse (in somma fissa) a 82 genera un incremento di reddito pari a",
+      "( 1/s )* T ) - T",
+      "(1/0.6 * 82) - 82 = 54.67",
+      "S= propensione al consumo",
+      "Se la propensione al risparmio è pari a 0.3, un aumento della spesa pubblica in deficit pari a 65 genera un incremento di reddito pari a:",
+      "FORMULA DA APPLICARE ANCHE PER I SEGUENTI: G/S G/S= 65/0.3= 216,67",
+      "G= spesa pubblica",
+      "Se la propensione al risparmio è pari a 0.8, un aumento della spesa pubblica in deficit pari a 185 genera un incremento di reddito pari a:",
+      "G/S= 185/0.8= 231,25",
+      "G = spesa pubblica",
+      "Se la propensione al risparmio è pari a 0.2, un aumento della spesa pubblica in deficit pari a 119 genera un incremento di reddito pari a:",
+      "G/S= 119/0.2= 595",
+      "G= spesa pubblica",
+      "Se la propensione al risparmio è pari a 0.2, un aumento della spesa pubblica in deficit pari a 132 genera un incremento di reddito pari a:",
+      "G/S= 132/0.2= 660",
+      "G= spesa pubblica",
+      "Se la propensione al risparmio è pari a 0.5, un aumento della spesa pubblica in deficit pari a 89 genera un incremento di reddito pari a:",
+      "G/S= 89/0.2= 445",
+      "G=spesa pubblica",
+      "Se la propensione al risparmio è 0,6 un aumento della spesa pubblica in pareggio pari a 178 genera un incremento di reddito pari a",
+      "SPESA PUBBLICA IN PAREGGIO: DELTA G = DELTA T (TEOREMA DI HAAVELMO) DELTA Y = DELTA G = DELTA T",
+      "DELTA G = 178 QUINDI DELTA Y = 178",
+      "Se la propensione al risparmio è pari a 0.3 un aumento della spesa pubblica pari a 159, assumendo una tassazione proporzionale con aliquota del 10%, genera un incremento di reddito pari a",
+      "FORMULA DA APPLICARE ANCHE ALLE SEGUENTI: G/1-c*(1-t)",
+      "G/1-c*(1-t) = 159/1-0,7*(1-0,10) = 429,73 c=(1-s)",
+      "Se la propensione al risparmio è pari a 0.7 un aumento della spesa pubblica pari a 251, assumendo una tassazione proporzionale con aliquota del 20%, genera un incremento di reddito pari a",
+      "G/1-c*(1-t) = 251/1-0,3*(1-0,20) = 330,26",
+      "Se la propensione al risparmio è pari a 0.6 un aumento della spesa pubblica pari a 138, assumendo una tassazione proporzionale con aliquota del 20%, genera un incremento di reddito pari a",
+      "G/(1-c*(1-t)) = 138/1-0,4*(1-0,20) = 202,94",
+      "Se la propensione al risparmio è pari a 0.4 un aumento della spesa pubblica pari a 258, assumendo una tassazione proporzionale con aliquota del 10%, genera un incremento di reddito pari a",
+      "G/1-c*(1-t) = 258/1-0,6*(1-0,10)= 560,87",
+      "Se la propensione al consumo è pari a 0,6 una riduzione delle tasse (in somma fissa) pari a 81 genera un incremento di reddito pari a:",
+      "(1/1-C * T)-T= (1/0,4 *81)-81=121,5 C= 1-S = 1-0,6=0.4",
+      "Se la propensione al consumo è pari a 0,6 un aumento della spesa pubblica in pareggio pari a 98 genera un incremento di reddito pari a",
+      "SPESA PUBBLICA IN PAREGGIO: DELTA G = DELTA T (TEOREMA DI HAAVELMO) DELTA Y = DELTA G = DELTA T",
+      "DELTA G = 98 QUINDI DELTA Y = 98",
+      "Se la propensione al consumo è pari a 0,7 un aumento della spesa pubblica in pareggio pari a 68 genera un incremento di reddito pari a:",
+      "SPESA PUBBLICA IN PAREGGIO: DELTA G = DELTA T (TEOREMA DI HAAVELMO) DELTA Y = DELTA G = DELTA T",
+      "DELTA G = 68 QUINDI DELTA Y = 68",
+      "Se la propensione al consumo è pari a 0.4, un aumento della spesa pubblica pari a 216, assumendo una tassazione proporzionale con aliquota del 10%, genera un incremento di reddito pari a",
+      "G/1-c*(1-t)= 216/(1-0,4)*(1-0,10)= 337,5",
+      "Se la propensione al consumo è pari a 0.5, un aumento della spesa pubblica pari a 282, assumendo una tassazione proporzionale con aliquota del 20%, genera un incremento di reddito pari a",
+      "G/1-c*(1-t) = 282/1-0,5*(1-0,20)=470",
+      "Se la propensione al consumo è pari a 0.2, un aumento della spesa pubblica pari a 262, assumendo una tassazione proporzionale con aliquota del 30%, genera un incremento di reddito pari a",
+      "G/1-c*(1-t) = 262/1-0,2*(1-0,30)=304,6"
+    ],
+    "options": [
+      "-Un parametro",
+      "-Una variabile endogena",
+      "-Uno disturbo stocastico (shock)",
+      "-Una variabile esogena"
+    ],
+    "correct_answer": "-Un parametro"
+  },
+  {
+    "question": "Con riferimento al modello IS/LM, in che cosa consiste una politica monetaria non- accomodante?",
+    "options": [
+      "-A seguito di un aumento di offerta di moneta, stimolato dall’aumento della spesa pubblica, la banca centrale non reagisce con una restrizione monetaria non riducendo il tasso di interesse, rendendo così la politica fiscale meno efficace.",
+      "-A seguito di un aumento di domanda di moneta, stimolata dall’aumento della spesa pubblica, la banca centrale non reagisce con una restrizione monetaria non riducendo il tasso di interesse, rendendo così la politica fiscale meno efficace.",
+      "-A seguito di un aumento di domanda di moneta, stimolato dall’aumento della spesa pubblica, la banca centrale non reagisce con una espansione monetaria non riducendo il tasso di interesse, rendendo così la politica fiscale meno efficace.",
+      "-A seguito di un aumento di offerta di moneta, stimolato dall’aumento della spesa pubblica, la banca centrale non reagisce con un’espansione monetaria non riducendo il tasso di interesse, rendendo così la politica fiscale meno efficace."
+    ],
+    "correct_answer": "-A seguito di un aumento di domanda di moneta, stimolato dall’aumento della spesa pubblica, la banca centrale non reagisce con una espansione monetaria non riducendo il tasso di interesse, rendendo così la politica fiscale meno efficace."
+  },
+  {
+    "question": "Con riferimento al modello IS/LM in cosa consiste una politica monetaria accomodante?",
+    "options": [
+      "-A seguito di un aumento di domanda di moneta, stimolato dall’aumento della spesa pubblica, la banca centrale reagisce con una espansione monetaria che mantiene il tasso d’interesse costante incrementando il reddito in modo tale che la politica fiscale risulti il più efficace possibile",
+      "-A seguito di un aumento di domanda di moneta, stimolato dall’aumento della spesa pubblica, la banca centrale reagisce con una espansione monetaria incrementando il tasso d’interesse, incrementando così il reddito in modo tale che la politica fiscale risulti il più efficace possibile",
+      "-A seguito di un aumento di domanda di moneta, stimolato dall’aumento della spesa pubblica, la banca centrale reagisce con una restrizione monetaria che mantiene il tasso d’interesse costante incrementando il reddito in modo tale che la politica fiscale risulti il più efficace possibile",
+      "-A seguito di un aumento di domanda di moneta, stimolato dall’aumento della spesa pubblica, la banca centrale reagisce con una restrizione monetaria incrementando il tasso d’interesse, incrementando così il reddito, in modo tale che la politica fiscale risulti il più efficace possibile",
+      "-Ha una pendenza maggiore rispetto al caso di economia chiusa, perché il moltiplicatore è minore.",
+      "-Ha la stessa pendenza rispetto al caso di economia chiusa.",
+      "-Ha una pendenza maggiore rispetto al caso di economia chiusa, perché il moltiplicatore è maggiore.",
+      "-Ha una pendenza maggiore se la mobilità dei capitali è minore"
+    ],
+    "correct_answer": "-Ha una pendenza maggiore rispetto al caso di economia chiusa, perché il moltiplicatore è minore."
+  },
+  {
+    "question": "Che cos’è l’effetto J (o curva J)?",
+    "options": [
+      "-indica le condizioni necessarie perché la spesa pubblica con bilancio in pareggio abbia un effetto espansivo sul reddito.",
+      "-indica le condizioni necessarie affinché una svalutazione del tasso di cambio migliori la bilancia dei pagamenti.",
+      "- Un possibile andamento del saldo dei movimenti di beni, che a seguito di una svalutazione prima peggiora e solo dopo migliora.",
+      "-Descrive gli effetti dell’aspettativa di apprezzamento del tasso di cambio sul saldo dei movimenti di capitale di un paese."
+    ],
+    "correct_answer": "- Un possibile andamento del saldo dei movimenti di beni, che a seguito di una svalutazione prima peggiora e solo dopo migliora."
+  },
+  {
+    "question": "Qual è la sequenza logica delle fasi della scelta pubblica che porta al calcolo del tasso di rendimento atteso?",
+    "options": [
+      "-1) attualizzazione costi-benefici; 2) valutazione costi-benefici attesi; 3) individuazione alternative",
+      "-1) individuazione alternative; 2) valutazione costi-benefici attesi; 3) attualizzazione costi e benefici",
+      "-1) individuazione alternative; 2) attualizzazione costi-benefici; 3) valutazione costi-benefici attesi",
+      "-1) valutazione costi-benefici; 2) attualizzazione costi-benefici; 3) individuazione alternative"
+    ],
+    "correct_answer": "-1) individuazione alternative; 2) valutazione costi-benefici attesi; 3) attualizzazione costi e benefici"
+  },
+  {
+    "question": "In un regime di concorrenza perfetta, cosa suggerire al produttore se il prezzo di mercato è 7, il costo marginale 5 e quello medio è 3?",
+    "context_equations": [
+      "EQUILIBRIO CONCORRENZA: P = RMA = CMA ; P = CU: NON FARE NULLA P > CMA ; P = CU : AUMENTARE PRODUZIONE",
+      "P < CMA ; P = CU : DIMINUIRE PRODUZIONE",
+      "P = RMA = CMA; P > CU : AUMENTO PRODUZIONE",
+      "P = RMA = CMA; P < CU : USCIRE"
+    ],
+    "options": [
+      "-Ridurre la produzione",
+      "-Aumentare la produzione",
+      "-Non fare nulla",
+      "-Uscire dal mercato"
+    ],
+    "correct_answer": "-Aumentare la produzione"
+  },
+  {
+    "question": "In un regime di concorrenza perfetta, cosa suggerire al produttore se il prezzo di mercato è 21, il costo marginale è 15 e quello medio è 9?",
+    "options": [
+      "-Ridurre la produzione",
+      "-Aumentare la produzione",
+      "-Non fare nulla",
+      "-Uscire dal mercato"
+    ],
+    "correct_answer": "-Aumentare la produzione"
+  },
+  {
+    "question": "In un regime di concorrenza perfetta, cosa suggerire al produttore se il prezzo di mercato è 9, il costo marginale è 9 e quello medio è 15?",
+    "options": [
+      "-Ridurre la produzione",
+      "-Aumentare la produzione",
+      "-Non fare nulla",
+      "-Uscire dal mercato"
+    ],
+    "correct_answer": "-Uscire dal mercato"
+  },
+  {
+    "question": "In un regime di concorrenza perfetta, cosa suggerire al produttore se il prezzo di mercato è 3.5, il costo marginale è 2.5 e quello medio è 1.5?",
+    "options": [
+      "-Ridurre la produzione",
+      "-Aumentare la produzione",
+      "-Non fare nulla",
+      "-Uscire dal mercato"
+    ],
+    "correct_answer": "-Aumentare la produzione"
+  },
+  {
+    "question": "In un regime di concorrenza perfetta, cosa suggerire al produttore se il prezzo di mercato è 3, il costo marginale è 3 e quello medio è 5?",
+    "context_equations": [
+      "In un regime di concorrenza perfetta in cui il costo marginale è pari a 5 e quello medio è pari a 3, calcolare il profitto di un’impresa che vende 30 unità di bene:",
+      "COSTI: CM *Q = 3 * 30 = 90",
+      "RICAVI (CMA = RMA): 5 * 30 = 150",
+      "PROFITTO (R - C): 150 - 90 = 60",
+      "In un regime di concorrenza perfetta in cui il costo marginale è pari a 5 e quello medio è pari a 3, calcolare il profitto di un’impresa che vende 10 unità di bene:"
+    ],
+    "options": [
+      "-Ridurre la produzione",
+      "-Aumentare la produzione",
+      "-Non fare nulla",
+      "-Uscire dal mercato",
+      "-30",
+      "-60",
+      "-150",
+      "-90",
+      "-50",
+      "-10",
+      "-30",
+      "-20"
+    ],
+    "correct_answer": "-20"
+  },
+  {
+    "question": "Quale affermazione non è corretta?",
+    "options": [
+      "-Il criterio di pareto equivale a dare a ogni cittadino il diritto di veto.",
+      "-Miglioramento paretiano e ottimo paretiano sono sinonimi.",
+      "-Il criterio di pareto equivale a una votazione all’unanimità",
+      "-Ottimo paretiano e efficienza paretiana sono sinonimi"
+    ],
+    "correct_answer": "-Miglioramento paretiano e ottimo paretiano sono sinonimi."
+  },
+  {
+    "question": "Quale affermazione non è corretta?",
+    "options": [
+      "-l’ottimo paretiano equivale a una votazione all’unanimità",
+      "-ottimo paretiano e efficienza paretiana sono sinonimi",
+      "-miglioramento paretiano e ottimo paretiano sono concetti distinti",
+      "-il criterio di pareto equivale a dare a ogni cittadino il diritto di veto"
+    ],
+    "correct_answer": "-l’ottimo paretiano equivale a una votazione all’unanimità"
+  },
+  {
+    "question": "Quale affermazione non è corretta?",
+    "options": [
+      "-MIglioramento paretiano e ottimo paretiano sono concetti distinti",
+      "-L’ottimo paretiano equivale a dare a ogni cittadino il diritto di veto",
+      "-Ottimo paretiano e efficienza paretiana sono sinonimi",
+      "-Il criterio di pareto equivale a una votazione all’unanimità"
+    ],
+    "correct_answer": "-L’ottimo paretiano equivale a dare a ogni cittadino il diritto di veto"
+  },
+  {
+    "question": "A quali problemi pratici può trovarsi di fronte il regolamentatore nel disegnare politiche per eliminare le esternalità?",
+    "options": [
+      "-La difficoltà a reperire informazioni sui costi opportunità privati e sui costi e valori sociali",
+      "-la non escludibilità dei beni oggetto di esternalità: se una unità del bene è offerta a un soggetto, è offerta gratis a tutti gli altri",
+      "- la non rivalità dei beni oggetto di esternalità, ossia che la stessa unità del bene può essere consumata da più soggetti, senza che ciò riduca la sua utilità per i soggetti che la consumano.",
+      "-la presenza di diritti di proprietà individuali sulle risorse, per cui ognuno le usa non tenendo conto degli effetti sugli altri."
+    ],
+    "correct_answer": "-La difficoltà a reperire informazioni sui costi opportunità privati e sui costi e valori sociali"
+  },
+  {
+    "question": "Quale argomento suggerisce che sia preferibile ricorrere all’impresa pubblica piuttosto che regolamentare le imprese private?",
+    "context_equations": [
+      "Dato un valore attuale dei benefici di un progetto pubblico pari a 16 e dei costi pari a 4, calcolare il VAN relativo del progetto:",
+      "B-C/C =16-4/4=3",
+      "Dato un valore attuale dei benefici di un progetto pubblico pari a 1,6 e dei costi pari a 0.4, calcolare il VAN relativo del progetto:",
+      "B-C/C =1,6-0.4/0.4=3",
+      "Dato un valore attuale dei benefici di un progetto pubblico pari a 2 e dei costi pari a 1, calcolare il VAN relativo del progetto:",
+      "B-C/C =2-1/1",
+      "Dato un valore attuale dei benefici di un progetto pubblico pari a 2 e dei costi pari a 1, calcolare il VAN assoluto del progetto:",
+      "B-C=2-1",
+      "Dato un valore attuale dei benefici di un progetto pubblico pari a 8 e dei costi pari a 2, calcolare il VAN assoluto del progetto:",
+      "B-C=8-2"
+    ],
+    "options": [
+      "-Il regolatore potrebbe avere incentivi distorti (cattura del regolatore).",
+      "-L’esistenza di incentivi per verso del management pubblico e il potenziale del clientelismo.",
+      "-la maggiore informazione che l’impresa privata ha sulla struttura dei costi (asimmetria informativa).",
+      "-Ragioni legate alla necessità di riduzione della spesa pubblica",
+      "-4",
+      "-12",
+      "-3",
+      "-16",
+      "-1.6",
+      "-3",
+      "-1.2",
+      "-4",
+      "-0.25",
+      "-2",
+      "-0.5",
+      "-1",
+      "-0.25",
+      "-2",
+      "-0.5",
+      "-1",
+      "-6",
+      "-3",
+      "-4",
+      "-8"
+    ],
+    "correct_answer": "-Il regolatore potrebbe avere incentivi distorti (cattura del regolatore)."
+  },
+  {
+    "question": "Quale tra le seguenti rientra nelle cause che possono determinare un’esigenza di coordinamento degli interventi di politica economica?",
+    "options": [
+      "-Presenza di esternalità",
+      "-Incoerenza temporale",
+      "-Mancanza di informazioni da parte dell’operatore pubblico sui costi e benefici privati",
+      "-Legame fra le scelte in vari periodi"
+    ],
+    "correct_answer": "-Legame fra le scelte in vari periodi"
+  },
+  {
+    "question": "Quale tra le seguenti rientra nelle cause che possono determinare un’esigenza di coordinamento degli interventi di politica economica?",
+    "options": [
+      "-Molteplicità di obiettivi",
+      "-Presenza di esternalità",
+      "-Incoerenza temporale",
+      "-Mancanza di informazioni da parte dell’operatore pubblico sui costi e benefici privati"
+    ],
+    "correct_answer": "-Molteplicità di obiettivi"
+  },
+  {
+    "question": "Quale tra le seguenti NON rientra nelle cause che possono determinare un’esigenza di coordinamento degli interventi di politica economica?",
+    "options": [
+      "-molteplicità di strumenti disponibili",
+      "-incoerenza temporale",
+      "-molteplicità di obiettivi",
+      "-legame fra le scelte in vari periodi"
+    ],
+    "correct_answer": "-incoerenza temporale"
+  },
+  {
+    "question": "Quale problematica può essere associata ad una politica dei prezzi attuata con la fissazione del margine di profitto?",
+    "options": [
+      "-Per attuarla occorre una differenza positiva tra il tasso di inflazione e il miglioramento previsto della produttività.",
+      "-Per attuarla occorrono molte informazioni sulle vendite dell’impresa.",
+      "-Le imprese tenderanno a gonfiare i costi medi.",
+      "-Le imprese tenderanno alla sovracapitalizzazione (effetto Averch-Johnson)"
+    ],
+    "correct_answer": "-Le imprese tenderanno a gonfiare i costi medi."
+  },
+  {
+    "question": "Quale problematica può essere associata ad una politica dei prezzi attuata con la fissazione del tasso di rendimento sul capitale?",
+    "options": [
+      "-Per attuarla occorrono informazioni molto attendibili sui costi.",
+      "-per attuarla occorre una differenza positiva tra il tasso di inflazione e il miglioramento previsto della produttività.",
+      "-Le imprese tenderanno alla sovracapitalizzazione (effetto Averch-Johnson).",
+      "-Le imprese tenderanno a gonfiare i costi medi."
+    ],
+    "correct_answer": "-Le imprese tenderanno alla sovracapitalizzazione (effetto Averch-Johnson)."
+  },
+  {
+    "question": "Quale problematica può essere associate ad una politica dei prezzi attuata con la fissazione di un prezzo massimo (price cap)?",
+    "options": [
+      "-Per attuarla serve una differenza positiva tra tasso di inflazione e il miglioramento previsto della produttività",
+      "-Le imprese tendono a gonfiare i costi",
+      "-Per attuarla occorrono informazioni molto attendibili sui costi",
+      "-Le imprese tenderanno alla sovracapitalizzazione (effetto Averch- johnson)"
+    ],
+    "correct_answer": "-Per attuarla occorrono informazioni molto attendibili sui costi"
+  },
+  {
+    "question": "Data l’equazione quantitativa della moneta e assumendo che la velocità di circolazione sia costante e pari a 0.5. Se il reddito è fisso (lungo periodo), di quanto variano i prezzi quando la moneta aumenta di 1?",
+    "context_equations": [
+      "V*M=Y*P  1*0,5= 0,5"
+    ],
+    "options": [
+      "-\t-1",
+      "-\t-0.5",
+      "-\t1",
+      "-\t0.5"
+    ],
+    "correct_answer": "-\t0.5"
+  },
+  {
+    "question": "Data l’equazione quantitativa della moneta e assumendo che la velocità di circolazione sia costante e pari a 0.5. Se i prezzi sono fissi (lungo periodo), di quanto varia il reddito quando la moneta aumenta di 2?",
+    "context_equations": [
+      "V*M=Y*P  2*0,5=1"
+    ],
+    "options": [
+      "-\t1",
+      "-1",
+      "-\t2",
+      "-2"
+    ],
+    "correct_answer": "-\t1"
+  },
+  {
+    "question": "Data l’equazione quantitativa della moneta e assumendo che la velocità di circolazione sia costante e pari a 0.5. Se i prezzi sono fissi (breve periodo), di quanto varia il reddito quando la moneta aumenta di 4?",
+    "context_equations": [
+      "V*M=Y*P 4*0,5= 2"
+    ],
+    "options": [
+      "-4",
+      "-2",
+      "-\t4",
+      "-\t2"
+    ],
+    "correct_answer": "-\t2"
+  },
+  {
+    "question": "Data l’equazione quantitativa della moneta e assumendo che la velocità di circolazione sia costante e pari a 0.5. Se i prezzi sono fissi (breve periodo), di quanto varia il reddito quando la moneta si riduce di 2?",
+    "context_equations": [
+      "V*M=Y*P -2*0,5 = - 1"
+    ],
+    "options": [
+      "-\t1",
+      "-1",
+      "-\t2",
+      "-2"
+    ],
+    "correct_answer": "-1"
+  },
+  {
+    "question": "Cosa rappresenta l’equazione l= bi + l0 nella seguente rappresentazione del modello IS/LM in economia aperta (Mundell-Fleming)?",
+    "context_equations": [
+      "E= C + I + NX",
+      "C= c (1-t) Y + C0",
+      "I= - bi + I0",
+      "NX= X(eR) – M(eR, Y)",
+      "E=Y",
+      "Ls/p= Ld1 + Ld2",
+      "Ld1= kY",
+      "Ld2= L0- v",
+      "BP= PC(eR, Y) + MK(i-𝑖 , svalutazione attesa del cambio nominale)",
+      "Cosa rappresenta l’equazione BP= PC(eR, Y) + MK(i-𝑖 , svalutazione attesa del cambio nominale) nella"
+    ],
+    "options": [
+      "-La funzione del consumo",
+      "-La domanda aggregata (non c’è la risposta corretta poiché I=Investimenti)",
+      "-L’equilibrio della bilancia dei pagamenti",
+      "-Le esportazioni al netto delle importazioni"
+    ],
+    "correct_answer": "-La domanda aggregata (non c’è la risposta corretta poiché I=Investimenti)"
+  },
+  {
+    "question": "Cosa rappresenta l’equazione E = C+ I + G +NX nella seguente rappresentazione del modello IS/LM in economia aperta (Mundell-Fleming)?",
+    "options": [
+      "-L’EQUILIBRIO DELLA BILANCIA DEI PAGAMENTI.",
+      "-LE ESPORTAZIONI AL NETTO DELLE IMPORTAZIONI.",
+      "-LA FUNZIONE DEL CONSUMO.",
+      "-LA DOMANDA AGGREGATA."
+    ],
+    "correct_answer": "-LA DOMANDA AGGREGATA."
+  },
+  {
+    "question": "Cosa rappresenta l’equazione Ls/p= Ld1 + Ld2 nella seguente rappresentazione del modello IS/LM in economia aperta (Mundell-Fleming)?",
+    "options": [
+      "-L’equilibrio del mercato della moneta",
+      "-La domanda di moneta",
+      "-L’equilibrio della bilancia dei pagamenti",
+      "-Le esportazioni al netto delle importazioni"
+    ],
+    "correct_answer": "-L’equilibrio del mercato della moneta"
+  },
+  {
+    "question": "Cosa rappresenta l’equazione Ld2= L0- vi nella seguente rappresentazione del modello IS/LM?",
+    "context_equations": [
+      "Y= C + I + G",
+      "C= c Y",
+      "l= l0 - ai",
+      "Ls/p= Ld1 + Ld2",
+      "Ld1= kY",
+      "Ld2= L0 - vi"
+    ],
+    "options": [
+      "-l’equilibrio del mercato della moneta",
+      "-la domanda di moneta a fini transattivi",
+      "-l’offerta di moneta",
+      "-la domanda di moneta a fini speculativi"
+    ],
+    "correct_answer": "-la domanda di moneta a fini speculativi"
+  },
+  {
+    "question": "Cosa rappresenta l’equazione Y= C+I+G nella seguente rappresentazione del modello IS/LM?",
+    "context_equations": [
+      "Y= C + I + G",
+      "C= c Y",
+      "l= l0 - ai",
+      "Ls/p= Ld1 + Ld2",
+      "Ld1= kY",
+      "Ld2= L0 - vi"
+    ],
+    "options": [
+      "-l’equilibrio del mercato beni",
+      "-la domanda aggregata",
+      "-la funzione di produzione",
+      "-la domanda di moneta"
+    ],
+    "correct_answer": "-l’equilibrio del mercato beni"
+  },
+  {
+    "question": "Cosa rappresenta l’equazione C=c Y nella seguente rappresentazione del modello IS/LM?",
+    "options": [
+      "-la domanda di beni di consumo",
+      "-la domanda aggregata",
+      "-l’equilibrio del mercato beni",
+      "-la domanda di beni di investimento"
+    ],
+    "correct_answer": "-la domanda di beni di consumo"
+  },
+  {
+    "question": "Cosa rappresenta l’equazione Ld1=k Y nella seguente rappresentazione del modello IS/LM?",
+    "options": [
+      "-l’equilibrio del mercato della moneta",
+      "-la domanda di moneta a fini transattivi",
+      "-l’offerta di moneta",
+      "-la domanda di moneta a fini speculativi"
+    ],
+    "correct_answer": "-la domanda di moneta a fini transattivi"
+  },
+  {
+    "question": "Cosa rappresenta l’equazione Y= π•N nella seguente rappresentazione dell’economia keynesiana (modello semplice con sola parte reale)?",
+    "context_equations": [
+      "Y=π•N",
+      "E= C + I + G",
+      "C= c• Y",
+      "Y=E"
+    ],
+    "options": [
+      "-la funzione di produzione",
+      "-la funzione di domanda di beni di consumo",
+      "-l’equilibrio del mercato dei beni",
+      "-la domanda aggregata"
+    ],
+    "correct_answer": "-la funzione di produzione"
+  },
+  {
+    "question": "Cosa rappresenta l’equazione Y=E nella seguente rappresentazione dell’economia keynesiana (modello semplice con sola parte reale)?",
+    "context_equations": [
+      "Y=pi•N",
+      "E= C + I + G",
+      "C= c• Y",
+      "Y=E"
+    ],
+    "options": [
+      "-la funzione di produzione",
+      "-la funzione di domanda di beni di consumo",
+      "-l’equilibrio del mercato dei beni",
+      "-la domanda aggregata"
+    ],
+    "correct_answer": "-l’equilibrio del mercato dei beni"
+  },
+  {
+    "question": "Nella seguente rappresentazione dell’economia keynesiana (modello semplice con sola parte reale), cosa rappresenta la grandezza N?",
+    "context_equations": [
+      "Y=pi•N",
+      "E= C + I + G",
+      "C= c• Y",
+      "Y=E"
+    ],
+    "options": [
+      "-una variabile esogena",
+      "-un disturbo stocastico (shock)",
+      "-una variabile endogena",
+      "-un parametro"
+    ],
+    "correct_answer": "-una variabile endogena"
+  },
+  {
+    "question": "Perché un sistema bancario con riserva frazionaria crea mezzi di pagamento ma non ricchezza?",
+    "options": [
+      "-La maggiore quantità di moneta è sempre un’attività per la banca centrale",
+      "-Ai prestiti bancari concessi ai privati corrisponde un uguale ammontare di nuovi debiti",
+      "-La maggiore quantità di moneta è sempre una passività per la banca centrale",
+      "-Le banche non trattengono l’intera quantità di moneta che viene depositata, ma solo una frazione di essa."
+    ],
+    "correct_answer": "-Ai prestiti bancari concessi ai privati corrisponde un uguale ammontare di nuovi debiti"
+  },
+  {
+    "question": "Cosa afferma la regola aurea della politica dei redditi?",
+    "options": [
+      "-L’inflazione rimane costante, i salari crescono in linea con la produttività",
+      "-Il policymaker potrà mantenere constante l’inflazione se garantirà una distribuzione del reddito invariata.",
+      "-Il policymaker potrà ottenere un certo numero di obiettivi fissati se controlla un uguale numero di strumenti indipendenti.",
+      "-Accettando una determinata distribuzione iniziale del reddito, l’inflazione rimane costante se i salari crescono con la produttività."
+    ],
+    "correct_answer": "-Accettando una determinata distribuzione iniziale del reddito, l’inflazione rimane costante se i salari crescono con la produttività."
+  },
+  {
+    "question": "In una economia aperta, perché la pendenza della IS è maggiore rispetto al caso di economia chiusa?",
+    "context_equations": [
+      "Assumendo un surplus della BP, l’aggiustamento basato sui prezzi (cambi fissi) è descritto come:",
+      "Assumendo un deficit della BP, l’aggiustamento basato sui prezzi (cambi fissi) è descritto come:"
+    ],
+    "options": [
+      "-Il moltiplicatore è maggiore, perché alcuni beni sono acquistati da residenti esteri (esportazioni).",
+      "-Il moltiplicatore è maggiore, perché parte del reddito è utilizzata per l’acquisto dei beni esteri (importazioni).",
+      "-Il moltiplicatore è minore, perché parte del reddito è utilizzata per l’acquisto dei beni esteri (importazioni)",
+      "-Il moltiplicatore è minore perché alcuni beni sono acquistati da residenti esteri (esportazioni)",
+      "-L’aumento della quantità di moneta comporterà una riduzione dei prezzi, la competitività si riduce, quindi il surplus si riduce.",
+      "-L’aumento della quantità di moneta comporterà un aumento dei prezzi, la competitività si riduce, quindi il surplus si riduce.",
+      "-La riduzione della quantità di moneta comporterà un aumento dei prezzi, la competitività si riduce, quindi il surplus si riduce.",
+      "-La riduzione della quantità di moneta comporterà una riduzione dei prezzi, la competitività si riduce, quindi il surplus si riduce.",
+      "-l’aumento della quantità di moneta comporterà una riduzione dei prezzi, la competitività aumenta, quindi il deficit si riduce.",
+      "-l’aumento della quantità di moneta comporterà una riduzione dei prezzi, la competitività aumento, quindi il deficit si riduce.",
+      "-La riduzione della quantità di moneta comporterà una riduzione dei prezzi, la competitività aumenta, quindi il deficit si riduce.",
+      "-L’aumento della quantità di moneta comporterà un aumento dei prezzi, la competitività aumenta, quindi il deficit si riduce."
+    ],
+    "correct_answer": "-La riduzione della quantità di moneta comporterà una riduzione dei prezzi, la competitività aumenta, quindi il deficit si riduce."
+  },
+  {
+    "question": "Cosa sono i beni meritori?",
+    "options": [
+      "-Beni caratterizzati da rivalità e non escludibilità",
+      "-Beni per i quali lo stato vuole assicurare un certo livello di consumo, al di là e al di sopra della quantità che ne viene autonomamente domandata dai vari individui",
+      "-Beni per i quali a fronte di effetti positivi sul consumo di un soggetto derivanti dal consumo di un altro soggetto non viene corrisposto alcun prezzo",
+      "-Beni per i quali lo stato vuole assicurare un livello di consumo almeno pari alla quantità che viene autonomamente domandata dai vari individui"
+    ],
+    "correct_answer": "-Beni per i quali lo stato vuole assicurare un certo livello di consumo, al di là e al di sopra della quantità che ne viene autonomamente domandata dai vari individui"
+  },
+  {
+    "question": "Quale tra queste affermazioni può essere considerata neoclassica?",
+    "options": [
+      "-Il sistema capitalistico è in grado di realizzare equilibri ottimali e stabili (pieno occupazione).",
+      "-La spesa per investimenti delle imprese dipende dalle aspettative e dagli umori degli imprenditori (animal spirit).",
+      "-I prezzi non sono perfettamente flessibili ma vischiosi.",
+      "-Il sistema capitalistico non è in grado di assicurare stabilità e piena occupazione"
+    ],
+    "correct_answer": "-Il sistema capitalistico è in grado di realizzare equilibri ottimali e stabili (pieno occupazione)."
+  },
+  {
+    "question": "Quale tra queste affermazioni può essere considerata neoclassica?",
+    "options": [
+      "-I prezzi non sono perfettamente flessibili ma vischiosi.",
+      "-la disoccupazione è involontaria.",
+      "-La velocità di circolazione della moneta è pro ciclica (cresce nell’espansione e si riduce durante le recessioni).",
+      "-La disoccupazione è volontaria."
+    ],
+    "correct_answer": "-La disoccupazione è volontaria."
+  },
+  {
+    "question": "Quale tra queste affermazioni può essere considerata neoclassica?",
+    "options": [
+      "-I prezzi non sono perfettamente flessibili ma vischiosi.",
+      "-La velocità di circolazione della moneta è pro ciclica (cresce nell’espansione e si riduce durante le recessioni).",
+      "-la politica fiscale è scarsamente efficace (o del tutto inefficace) a causa dello spiazzamento finanziario o reale",
+      "-le politiche monetarie fiscali servono a stabilizzare l’economia su livelli di occupazione accettabili"
+    ],
+    "correct_answer": "-la politica fiscale è scarsamente efficace (o del tutto inefficace) a causa dello spiazzamento finanziario o reale"
+  },
+  {
+    "question": "Cosa misura il moltiplicatore della politica monetaria?",
+    "options": [
+      "-L’impatto della variazione della riserva obbligatoria sulla base monetaria",
+      "-L’impatto della variazione della base monetaria sui depositi",
+      "-L’impatto della variazione dell'offerta di moneta sul reddito",
+      "-L’impatto della variazione della base monetaria sull’offerta di moneta"
+    ],
+    "correct_answer": "-L’impatto della variazione dell'offerta di moneta sul reddito"
+  },
+  {
+    "question": "Cos’è lo spiazzamento finanziario?",
+    "options": [
+      "-L’effetto di riduzione della spesa pubblica sensibile al tasso d’interesse provocato da un aumento della spesa privata finanziata dal sistema bancario",
+      "-L’effetto di riduzione della spesa privata sensibile al tasso d’interesse provocato da un aumento della spesa pubblica finanziato in deficit senza emissione di moneta",
+      "-L’effetto di sostituzione della spesa privata interna generato da un aumento di competitività sui mercati internazionali.",
+      "-L’effetto di una riduzione del reddito provocato da un aumento della spesa pubblica finanziato in deficit senza emissione di moneta"
+    ],
+    "correct_answer": "-L’effetto di riduzione della spesa privata sensibile al tasso d’interesse provocato da un aumento della spesa pubblica finanziato in deficit senza emissione di moneta"
+  },
+  {
+    "question": "Quale è l’obiettivo della politica dei redditi e dei prezzi?",
+    "context_equations": [
+      "Se per attuare una politica di controllo dei prezzi l’autorità fissa il tasso di rendimento sul capitale, allora l’impresa regolamentata:",
+      "Se per attuare una politica di controllo dei prezzi l’autorità fissa il margine di profitto, allora l’impresa regolamentata:"
+    ],
+    "options": [
+      "-Contenere l’inflazione attraverso il controllo delle variabili distributive (salari e margini di profitto)",
+      "-Accrescere la produttività attraverso il controllo delle variabili distributive (salari e margini di profitto)",
+      "-Controllare le variabili distributive (salari e margini di profitto) attraverso il contenimento dell’inflazione.",
+      "-controllare le variabili distributive (salari e margini di profitto) attraverso la crescita della produttività",
+      "-Tenderà a utilizzare tecniche a bassa intensità di capitale",
+      "-Avrà interesse a ridurre i costi unitari",
+      "-Non avrà interesse a ridurre i costi unitari",
+      "-Tenderà a utilizzare tecniche ad elevata intensità di capitale",
+      "-Non avrà interesse a ridurre i costi unitari"
+    ],
+    "correct_answer": "-Non avrà interesse a ridurre i costi unitari"
+  },
+  {
+    "question": "Dopo l’introduzione di un dazio, il surplus del produttore aumenta di 5, quello del consumatore si riduce di 10 e il gettito fiscale è pari a 5. Qual è il costo sociale del dazio?",
+    "context_equations": [
+      "FORMULA DA APPLICARE: SURPLUS CONSUMATORE - (SURPLUS PRODUTTORE + GETTITO)",
+      "=10 - 10 = 0"
+    ],
+    "options": [
+      "-5",
+      "-0( non c’è il meno davanti )",
+      "-20",
+      "-10"
+    ],
+    "correct_answer": "-0( non c’è il meno davanti )"
+  },
+  {
+    "question": "Dopo l’introduzione di un dazio, il surplus del produttore aumenta di 5, quello del consumatore si riduce di 30 e il gettito fiscale è pari a 5. Qual è il costo sociale del dazio?",
+    "context_equations": [
+      "SURPLUS CONSUMATORE - (SURPLUS PRODUTTORE + GETTITO)"
+    ],
+    "options": [
+      "-20( non c’è il meno davanti)",
+      "-0",
+      "-10",
+      "-30"
+    ],
+    "correct_answer": "-20( non c’è il meno davanti)"
+  },
+  {
+    "question": "Dopo l’introduzione di un dazio, il surplus del produttore aumenta di 5, quello del consumatore si riduce di 15 e il gettito fiscale è pari a 5. Qual è il costo sociale del dazio? SURPLUS CONSUMATORE - (SURPLUS PRODUTTORE + GETTITO)",
+    "options": [
+      "-15",
+      "-10",
+      "-20",
+      "-5( non c’è il meno davanti)"
+    ],
+    "correct_answer": "-5( non c’è il meno davanti)"
+  },
+  {
+    "question": "Come si può contrastare l’opportunismo dei politici e dei burocrati?",
+    "options": [
+      "-attraverso sanzioni pigouviane",
+      "-delegando al mercato le loro funzioni",
+      "-attraverso il controllo dei loro salari",
+      "-agendo sui sistemi di selezione e sanzionatori"
+    ],
+    "correct_answer": "-agendo sui sistemi di selezione e sanzionatori"
+  },
+  {
+    "question": "Cosa si intende per opportunismo di politici e/o burocratici?",
+    "options": [
+      "-il tentativo di ottenere vantaggi personali (o dei propri gruppi di riferimento) invece che obiettivi di interesse generale.",
+      "-La capacità di prevedere le reazioni degli agenti economici, nonostante l’esistenza dell’incoerenza temporale.",
+      "- L’incapacità di prevedere le reazioni degli agenti economici a causa dell’esistenza dell’incoerenza temporale.",
+      "-l’opportuna individuazione da parte dei loro beneficiari delle politiche redistributive."
+    ],
+    "correct_answer": "-il tentativo di ottenere vantaggi personali (o dei propri gruppi di riferimento) invece che obiettivi di interesse generale."
+  },
+  {
+    "question": "Cosa fanno i politici e i burocrati?",
+    "options": [
+      "-Entrambi realizzano le linee di azione fissati dal governo, ma i politici sono eletti mentre i burocrati sono nominati.",
+      "-i politici definiscono gli obiettivi dell’azione pubblica, mentre i burocrati realizzano le linee di azione fissati dai primi.",
+      "-i burocrati definiscono gli obiettivi dell’azione pubblica, mentre i politici realizzano le linee di azione fissate dai primi.",
+      "-Entrambi definiscono gli obiettivi dell’azione pubblica, ma i politici sono eletti mentre i burocrati sono nominati."
+    ],
+    "correct_answer": "-i politici definiscono gli obiettivi dell’azione pubblica, mentre i burocrati realizzano le linee di azione fissati dai primi."
+  },
+  {
+    "question": "Quali tra le seguenti possono essere considerate politiche disegnate per contrastare l’opportunismo dei politici o dei burocrati?",
+    "options": [
+      "-In prossimità delle elezioni, non adottare misure espansive per massimizzare la probabilità di rielezione di candidati non opportunistici.",
+      "-migliorare le caratteristiche dei processi di selezione e prevedere sanzioni probabili e elevate (Sanzioni deboli attraggono gli opportunisti).",
+      "-Modificare una politica precedentemente annunciato dopo che i privati hanno agito sulla base di quegli annunci.",
+      "-Ruotare gli altri dirigenti della pubblica amministrazione al cambiare del governo."
+    ],
+    "correct_answer": "-migliorare le caratteristiche dei processi di selezione e prevedere sanzioni probabili e elevate (Sanzioni deboli attraggono gli opportunisti)."
+  },
+  {
+    "question": "Quali dei seguenti settori e politiche fanno riferimento al welfare state ?",
+    "options": [
+      "-politiche del lavoro, sanità, istruzione, politiche contro le esternalità.",
+      "-sanità, politiche del lavoro, politiche contro le esternalità, previdenza.",
+      "-Istruzione, previdenza, politiche del lavoro, politiche contro le esternalità.",
+      "-previdenza, sanità, istruzione, politiche del lavoro."
+    ],
+    "correct_answer": "-previdenza, sanità, istruzione, politiche del lavoro."
+  },
+  {
+    "question": "Quali sono gli effetti di un dazio sul prezzo estero in una grande economia aperta?",
+    "context_equations": [
+      "Nel modello di Mundell-Fleming:",
+      "Nel modello di Mundell-Fleming, per effetto di una svalutazione o di un deprezzamento del tasso di cambio:"
+    ],
+    "options": [
+      "-I produttori interni troveranno più conveniente offrire il bene sul mercato estero; nel mercato estero, si creerà quindi un eccesso di offerta che spingerà il prezzo verso il basso.",
+      "-La riduzione della domanda interna e l’aumento della produzione interna comporteranno un eccesso positivo della domanda mondiale netta e quindi un aumento del prezzo estero.",
+      "-I produttori interni troveranno più conveniente offrire il bene sul mercato estero; nel mercato estero, si creerà quindi un eccesso di domanda che spingerà il prezzo verso l’alto.",
+      "-La riduzione della domanda interna e l’aumento della produzione interna comporteranno un eccesso negativo della domanda mondiale e quindi una riduzione del prezzo estero.",
+      "-La BP rappresenta le combinazioni di Y e i che assicurano l’equilibrio del mercato monetario.",
+      "-La BP sarà tanto meno inclinata quanto maggiore è la reattività dei capitali al tasso di interesse.",
+      "-I punti sopra la BP rappresentano situazioni contraddistinte da disavanzo della bilancia dei pagamenti.",
+      "-La BP sarà tanto meno inclinata quanto minore è la reattività dei capitali al tasso di interesse.",
+      "-Si ha una perdita di competitività delle merci del paese che adotta tale misura",
+      "-Si ha un aumento della propensione ad importare dal paese che adotta tale misura",
+      "-La BP si sposta verso il basso ed è meno inclinata",
+      "-La BP si sposta verso l’alto ed è più inclinata"
+    ],
+    "correct_answer": "-La BP si sposta verso il basso ed è meno inclinata"
+  },
+  {
+    "question": "Quale condizione deve soddisfare uno strumento di politica economica tra quelle elencate?",
+    "options": [
+      "-Efficienza.",
+      "-Legittimità.",
+      "-Coerenza temporale.",
+      "-Controllabilità."
+    ],
+    "correct_answer": "-Controllabilità."
+  },
+  {
+    "question": "Quale condizione deve soddisfare uno strumento di politica economica tra quelle elencate?",
+    "options": [
+      "-Efficienza.",
+      "-Legittimità.",
+      "-Coerenza temporale.",
+      "-Separabilità",
+      "-Efficacia",
+      "-Efficienza",
+      "-Coerenza temporale",
+      "-Legittimità"
+    ],
+    "correct_answer": "-Efficacia"
+  },
+  {
+    "question": "Cosa si intende per animal spirits?",
+    "options": [
+      "-l’aspettativa di maggiori tasse che spiazza (spiazzamento reale) la politica fiscale espansiva in",
+      "-il meccanismo che guida le aspettative dei lavoratori nel contrattare il salario nel breve periodo secondo Friedman.",
+      "-le imprevedibili aspettative degli imprenditori che guidano le fluttuazioni economiche secondo keynes",
+      "-il meccanismo che fa si che la spesa pubblica sia spiazzata (spiazzamento finanziario) dall’aumento dei tassi d’interesse indotti dall’aumento della domanda di moneta, rendendo gli effetti della politica illusori."
+    ],
+    "correct_answer": "-le imprevedibili aspettative degli imprenditori che guidano le fluttuazioni economiche secondo keynes"
+  },
+  {
+    "question": "Cosa implicano le esternalità?",
+    "options": [
+      "-Le quantità prodotte e scambiate nel mercato divergono da quelle che realizzano l’efficienza paretiana.",
+      "-risulta invalidato il II teorema dell’economia del benessere.",
+      "-si produrranno e consumeranno quantità necessariamente minori rispetto quelli che garantiscono l’ottenimento dell’ottimo paretiano a causa di comportamenti di free riding.",
+      "-risulta invalidato il I teorema dell’economia del benessere."
+    ],
+    "correct_answer": "-Le quantità prodotte e scambiate nel mercato divergono da quelle che realizzano l’efficienza paretiana."
+  },
+  {
+    "question": "Cosa è un bene pubblico globale?",
+    "options": [
+      "-bene pubblico prodotto a livello globale finanziato dai governi pubblici locali",
+      "-bene pubblico che estende i suoi benefici al di fuori dei confini nazionali, coinvolgendo tendenzialmente l’intera comunità internazionale",
+      "-bene pubblico prodotto a livello locale da un’impresa pubblica con effetti che vanno aldilà dei confini nazionali",
+      "-bene prodotto globalmente da una istituzione sovranazionale"
+    ],
+    "correct_answer": "-bene pubblico che estende i suoi benefici al di fuori dei confini nazionali, coinvolgendo tendenzialmente l’intera comunità internazionale"
+  },
+  {
+    "question": "Quale tra le seguenti può essere definita come una politica dei redditi di mercato?",
+    "context_equations": [
+      "In una piccola economia aperta, l’introduzione di un dazio renderà non conveniente per gli operatori esteri il commercio quindi:"
+    ],
+    "options": [
+      "-Aggravi fiscali o premi fiscali in funzione delle politiche di prezzo adottate dall’impresa (tax -based income policies)",
+      "-scambio politico (partecipazione del governo con propri impegni d’accordo:",
+      "-scambio economico (vantaggi fiscali e economici per le parti che si accordano)",
+      "-Blocco dei salari",
+      "-si verificherà un eccesso di domanda interna e un aumento del prezzo interno",
+      "-si verificherà un eccesso di offerta interna e un aumento del prezzo interno",
+      "- si verificherà un eccesso di offerta estera e un aumento del prezzo estero",
+      "-si verificherà un eccesso di domanda estera e un aumento del prezzo estero"
+    ],
+    "correct_answer": "-si verificherà un eccesso di domanda interna e un aumento del prezzo interno"
+  },
+  {
+    "question": "In un’economia aperta agli scambi con l’estero (non piccola), cosa implica l’introduzione di un dazio?",
+    "context_equations": [
+      "A partire dalla metà degli anni 80 è venuta meno la fiducia dei governi e di una parte degli studiosi nelle virtù delle imprese pubbliche e nelle loro capacità di conseguire gli obiettivi ad esse assegnati. Questi diversi atteggiamenti riflettono, tra altri, la seguente considerazione:",
+      "Cosa implica la seguente assunzione dB=0,02, dp=0,01 e dY=0.04:",
+      "Cosa implica la seguente assunzione dB= - 0,04, dp=0,02 e dY= - 0.01",
+      "Cosa implica la seguente assunzione dB=0,04, dp=0,02 e dY=0.01"
+    ],
+    "options": [
+      "-una riduzione del prezzo intero, una riduzione del prezzo internazionale.",
+      "-un aumento del prezzo interno, un aumento del prezzo internazionale",
+      "-una riduzione del prezzo interno, un aumento del prezzo internazionale",
+      "-un aumento del prezzo interno, una riduzione del prezzo internazionale.",
+      "-le imprese pubbliche costituiscono un fallimento del mercato microeconomico, perché sono in contrasto con il requisito della concorrenza perfetta.",
+      "-Alcuni mutamenti tecnologici hanno fatto venire meno certe posizioni di monopolio naturale.",
+      "-Il cambiamento del sistema elettorale o in quel periodo.",
+      "-Le imprese pubbliche non sono efficienti perché non sono generalmente in grado di generare i profitti.",
+      "-il debito nominale si riduce, ma il suo rapporto con il Pil aumenta.",
+      "-il debito nominale e il suo rapporto con il Pil si riducono.",
+      "-Il debito nominale aumenta, ma il suo rapporto con il Pil si riduce.",
+      "- Il debito nominare il suo rapporto con il Pil aumentano.",
+      "-il debito nominale si riduce, ma il suo rapporto con il Pil aumenta.",
+      "-il debito nominale e il suo rapporto con il Pil si riducono.",
+      "-Il debito nominale aumenta, ma il suo rapporto con il Pil si riduce.",
+      "- Il debito nominare il suo rapporto con il Pil aumentano.",
+      "-il debito nominale si riduce, ma il suo rapporto con il Pil aumenta.",
+      "-il debito nominale e il suo rapporto con il Pil si riducono.",
+      "-Il debito nominale aumenta, ma il suo rapporto con il Pil si riduce.",
+      "- Il debito nominare il suo rapporto con il Pil aumentano."
+    ],
+    "correct_answer": "- Il debito nominare il suo rapporto con il Pil aumentano."
+  },
+  {
+    "question": "Cosa implica l’introduzione di un dazio?",
+    "options": [
+      "-Una riduzione della produzione interna, un aumento del consumo interno.",
+      "-Una riduzione della produzione interna, una riduzione del consumo interno.",
+      "-un aumento della produzione interna, una riduzione del consumo interno.",
+      "-un aumento della produzione interna, un aumento del consumo interno."
+    ],
+    "correct_answer": "-un aumento della produzione interna, una riduzione del consumo interno."
+  },
+  {
+    "question": "Cosa implica l’introduzione di un dazio?",
+    "options": [
+      "-un aumento del prezzo interno, un aumento del gettito dello Stato.",
+      "-Una riduzione del prezzo interno, una riduzione del gettito dello Stato.",
+      "-Una riduzione del prezzo interno un aumento del gettito dello Stato.",
+      "-Un aumento del prezzo interno, una riduzione del gettito dello Stato."
+    ],
+    "correct_answer": "-un aumento del prezzo interno, un aumento del gettito dello Stato."
+  },
+  {
+    "question": "Cos’è la legge di Okun?",
+    "options": [
+      "-una relazione negativa tra la spesa pubblica in deficit e tasso di disoccupazione.",
+      "-Una relazione negativa tra tasso di inflazione dei salari e tasso di disoccupazione.",
+      "-Una relazione negativa tra Pil e tasso di disoccupazione.",
+      "-Una relazione negativa tra tasso di inflazione dei prezzi e tasso di disoccupazione."
+    ],
+    "correct_answer": "-Una relazione negativa tra Pil e tasso di disoccupazione."
+  },
+  {
+    "question": "Cosa si intende per base monetaria?",
+    "options": [
+      "-Moneta legale e le altre attività finanziarie che possono essere detenute dalle banche come riserva.",
+      "-attività finanziarie detenute dalle banche come riserve e i depositi dei privati presso le banche stesse.",
+      "-moneta legale detenuta dai privati e i loro depositi presso le banche.",
+      "-l’ammontare di riserve richiesto dalle autorità monetarie e le riserve libere."
+    ],
+    "correct_answer": "-Moneta legale e le altre attività finanziarie che possono essere detenute dalle banche come riserva."
+  },
+  {
+    "question": "Di che cosa si occupa la teoria positiva della politica economica?",
+    "options": [
+      "-della determinazione delle preferenze sociali.",
+      "-Di cosa dovrebbe fare l’operatore pubblico agendo razionalmente.",
+      "-del comportamento reale dell’operatore pubblico (fallimenti del “non mercato”).",
+      "-delle procedure attraverso cui l’operatore pubblico definisce i suoi se obiettivi."
+    ],
+    "correct_answer": "-del comportamento reale dell’operatore pubblico (fallimenti del “non mercato”)."
+  },
+  {
+    "question": "Assumendo che NON vi siano costi di transizione, cosa afferma il teorema di Coase?",
+    "options": [
+      "-assegnare i diritti di proprietà può non essere sufficiente perché i privati trovino un accordo per uno scambio efficiente occorre infatti assegnarli a soggetti specifici.",
+      "-Se vengono assegnati diritti di proprietà i privati troveranno un accordo per uno scambio efficiente.",
+      "-Se vengono assegnati i diritti di proprietà le parti troveranno un accordo che eliminerò le esternalità.",
+      "-assegnare i diritti di proprietà può non essere sufficiente per raggiungere l’efficienza, occorre infatti assegnarli a soggetti specifici.",
+      "-assegnare i diritti di proprietà può non essere sufficiente per raggiungere l’efficienza, occorre infatti assegnarli a soggetti specifici."
+    ],
+    "correct_answer": "-assegnare i diritti di proprietà può non essere sufficiente per raggiungere l’efficienza, occorre infatti assegnarli a soggetti specifici."
+  },
+  {
+    "question": "Qual è un possibile limite dell’attuazione di una politica al controllo dei prezzi in cui si fissa il margine di profitto?",
+    "options": [
+      "-l’impresa regolamentata tenderà a utilizzare tecniche ad elevata intensità di capitale",
+      "-l’impresa regolamentata non avrà interesse a ridurre i costi unitari",
+      "-l’impresa regolamentata tenderà utilizzare tecniche bassa intensità di capitale",
+      "-l’impresa regolamentata avrà interesse a ridurre i costi unitari."
+    ],
+    "correct_answer": "-l’impresa regolamentata non avrà interesse a ridurre i costi unitari"
+  },
+  {
+    "question": "Cosa possiamo dire del moltiplicatore della politica fiscale in una economia monetaria?",
+    "context_equations": [
+      "Si consideri una curva delle utilità possibili. Dati i tre punti (A, B, C) con le seguenti proprietà: A è un equilibrio di concorrenza perfetta che soddisfa il teorema; B è un equilibrio di concorrenza in cui sono presenti dei fallimenti del mercato; C non è il punto parete ottimale, ma rappresenta il risultato di un intervento pubblico che comporta un miglioramento paretiano rispetto al punto B.",
+      "Quali delle seguenti azioni di politica economica rientra tra gli interventi diretti:",
+      "Quale delle seguenti azioni di politica economica rientra tra gli interventi diretti:",
+      "Quale delle seguenti azioni di politica economica rientra tra gli interventi indiretti:"
+    ],
+    "options": [
+      "-il moltiplicatore è maggiore di quello ottenuto in una economia senza moneta.",
+      "-il moltiplicatore è minore di quello ottenuto in un’economia senza moneta.",
+      "-il moltiplicatore è maggiore di quello della politica monetaria",
+      "-il moltiplicatore è minore di quello della politica monetaria",
+      "-C è sulla frontiera ed è in alto a destra rispetto ad A e B",
+      "-A è sulla frontiera: B e C non sono sulla frontiera; C è in alto a destra rispetto a B?",
+      "-A e C sono sulla frontiera; B non è sulla frontiera; C è in alto a destra rispetto a B",
+      "-la concessione di sussidi",
+      "-La regolamentazione ambientale.",
+      "-Gli incentivi fiscali per l’adozione di tecnologie verdi.",
+      "-le tasse pigouviane",
+      "-il controllo dei prezzi.",
+      "-La concessione di sussidi",
+      "-Le esenzioni fiscali per le donazioni alla ricerca.",
+      "-Le tasse pigouviane",
+      "-il controllo dei prezzi",
+      "-la concessione di sussidi",
+      "-la regolamentazione",
+      "-la produzione di beni pubblici da parte dello stato"
+    ],
+    "correct_answer": "-la concessione di sussidi"
+  },
+  {
+    "question": "A quale fattori, tra altri, può essere attribuito l’incremento della diseguaglianza osservato a partire dagli anni 70?",
+    "options": [
+      "-la crescita delle crisi finanziarie e delle sue conseguenze sull’economia reale.",
+      "-incremento delle remunerazioni dei manager di alto rango (top income).",
+      "-Il fenomeno delle migrazioni.",
+      "-Riduzioni dei salari nominali della classe media."
+    ],
+    "correct_answer": "-Riduzioni dei salari nominali della classe media."
+  },
+  {
+    "question": "Cosa si intende per variabili endogene?",
+    "options": [
+      "-Le variabili strumento di politica economica.",
+      "-Le variabili obiettivo di politica economica.",
+      "-Le variabili che determinano altre variabili, ma non ne sono influenzate.",
+      "-L'espansione della base monetaria aumenta, via moltiplicatore dei depositi, l'offerta di moneta; ne segue una riduzione dei tassi di interesse, un aumento degli investimenti e, anche per gli effetti del moltiplicatore, un aumento del reddito e quindi dell'occupazione",
+      "-L'espansione della base monetaria aumenta, via moltiplicatore dei depositi, la domanda di moneta, ne segue una riduzione dei tassi di interesse, un aumento degli investimenti e, anche per gli effetti del moltiplicatore, un aumento del reddito e quindi dell'occupazione",
+      "-L'espansione della base monetaria aumenta, via moltiplicatore dei depositi, l'offerta di moneta; ne segue un aumento dei tassi di interesse, un aumento degli investimenti e, anche per gli effetti del moltiplicatore, un aumento del reddito e quindi dell'occupazione.",
+      "-L'espansione della base monetaria riduce, via moltiplicatore dei depositi, l'offerta di moneta, ne segue una riduzione dei tassi di interessi, un aumento degli investimenti e, anche per gli effetti del moltiplicatore, un aumento del reddito e quindi dell'occupazione.",
+      "-la contrazione della base monetaria riduce, via moltiplicatore dei depositi, l’offerta di moneta; ne segue un aumento dei tassi di interesse. Una caduta degli investimenti e, anche per gli effetti del moltiplicatore, una caduta del reddito e quindi dell’occupazione.",
+      "-la contrazione della base monetaria riduce, via moltiplicatore dei depositi, la domanda di moneta; ne segue un aumento dei tassi di interesse, una caduta degli investimenti e, anche per gli effetti del moltiplicatore, una caduta del reddito e quindi dell’occupazione.",
+      "-la contrazione della base monetaria riduce, via moltiplicatore dei depositi, l’offerta di moneta; ne segue un aumento dei tassi di interesse, una caduta degli investimenti e, anche per gli effetti del moltiplicatore, una caduta del reddito e quindi dell’occupazione.",
+      "-la contrazione della base monetaria riduce, via moltiplicatore dei depositi, la domanda di moneta; ne segue un aumento dei tassi di interesse, una caduta degli investimenti e, anche per gli effetti del moltiplicatore, una caduta del reddito e quindi dell’occupazione."
+    ],
+    "correct_answer": "-la contrazione della base monetaria riduce, via moltiplicatore dei depositi, l’offerta di moneta; ne segue un aumento dei tassi di interesse. Una caduta degli investimenti e, anche per gli effetti del moltiplicatore, una caduta del reddito e quindi dell’occupazione."
+  },
+  {
+    "question": "A cosa serve l’analisi costi-benefici?",
+    "options": [
+      "-a calcolare i prezzi ombra associati ai progetti pubblici.",
+      "-a stabilire la convenienza di diversi progetti e compararli.",
+      "-A calcolare i costi di un progetto privato.",
+      "-A calcolare i costi di un progetto pubblico."
+    ],
+    "correct_answer": "-a stabilire la convenienza di diversi progetti e compararli."
+  },
+  {
+    "question": "Cosa sono le risorse comuni che possono dare luogo alla cosiddetta tragedia delle proprietà comuni (risorse collettive)?",
+    "options": [
+      "-Beni rivali, ma escludibili.",
+      "-Beni non rivali, ma escludibili.",
+      "-Beni escludibili, ma non necessariamente rivali.",
+      "-Beni non escludibili ma non necessariamente rivali."
+    ],
+    "correct_answer": "-Beni non escludibili ma non necessariamente rivali."
+  },
+  {
+    "question": "Perché il controllo dei prezzi riduca gli extra profitti senza scoraggiare l’investimento occorre un’informazione accurata sui costi (noti alle imprese, ma non regolatore), in questo caso, quale strumento può essere utilizzato per limitare le asimmetrie informative?",
+    "options": [
+      "-Yardistick competition",
+      "-Price cap",
+      "-Fissazione del margine di profitto",
+      "-Fissazione del tasso di rendimento sul capitale"
+    ],
+    "correct_answer": "-Yardistick competition"
+  },
+  {
+    "question": "Perché le esternalità negative comportano un fallimento del mercato?",
+    "options": [
+      "-rendono diversi il costo marginale sociale e quello privato",
+      "-rendono diversi il beneficio marginale sociale e quello privato",
+      "-rendono il costo marginale sociale maggiore del beneficio marginale sociale",
+      "-rendono il beneficio marginale sociale maggiore del costo marginale sociale"
+    ],
+    "correct_answer": "-rendono diversi il costo marginale sociale e quello privato"
+  },
+  {
+    "question": "Perché le esternalità positive comportano un fallimento del mercato?",
+    "options": [
+      "-rendono il beneficio marginale sociale maggiore del costo marginale sociale",
+      "-rendono il costo marginale sociale maggiore del beneficiario marginale sociale",
+      "-rendono diversi il beneficio marginale sociale e quello privato",
+      "-rendono diversi il costo marginale sociale e quello privato"
+    ],
+    "correct_answer": "-rendono diversi il beneficio marginale sociale e quello privato"
+  },
+  {
+    "question": "Che tipo di relazione c’è tra indipendenza della Banca centrale inflazione viene suggerita dalla teoria dell’incoerenza temporale?",
+    "options": [
+      "-Una U rovesciata",
+      "-Positiva",
+      "-Negativa",
+      "-Una relazione ad U"
+    ],
+    "correct_answer": "-Negativa"
+  },
+  {
+    "question": "Cosa si intende per aggiustamento automatico della bilancia dei pagamenti?",
+    "options": [
+      "-Un intervento del governo che porta al pareggio della bilancia dei pagamenti.",
+      "-la teoria quantitativa della moneta e l’aggiustamento della bilancia dei pagamenti via variazione dei prezzi.",
+      "-la condizione di Marshall-Lerner sull’elasticità delle importazioni ed esportazioni.",
+      "-Un meccanismo con cui il mercato porta al pareggio della bilancia dei pagamenti senza che il governo intervenga."
+    ],
+    "correct_answer": "-Un meccanismo con cui il mercato porta al pareggio della bilancia dei pagamenti senza che il governo intervenga."
+  },
+  {
+    "question": "Quando si ha un monopolio naturale?",
+    "options": [
+      "-Quando un’impresa si trova a essere l’unica offerente, indipendentemente dalla presenza di economie di scala.",
+      "-Quando esistono accentuate economie di scala in relazione al mercato in questione",
+      "-Quando la struttura dei costi fissi permette di produrre nel punto in cui il ricavo marginale è uguale al costo marginale",
+      "-Quando norme di legge prevedono l’unicità del soggetto offerente"
+    ],
+    "correct_answer": "-Quando esistono accentuate economie di scala in relazione al mercato in questione"
+  },
+  {
+    "question": "Quando si ha un monopolio di fatto?",
+    "options": [
+      "-quando esistono accentuate economie di scala in relazione al mercato in questione",
+      "-quando un’impresa si trova essere l’unico offerente, indipendentemente da economie di scala e norme legislative",
+      "-quando norme di legge prevedono l’unicità del soggetto offerente",
+      "-quando la struttura dei costi fissi permette di produrre nel punto in cui ricavo marginale è uguale al costo marginale"
+    ],
+    "correct_answer": "-quando un’impresa si trova essere l’unico offerente, indipendentemente da economie di scala e norme legislative"
+  },
+  {
+    "question": "Cosa sono le misure di controllo diretto?",
+    "options": [
+      "-Quelle che risultano efficaci sugli obiettivi",
+      "-Quelle che non risultano efficaci sugli obiettivi, ma li influenzano attraverso la fissazione di obiettivi intermedi",
+      "-Quelle che non impongono dati comportamenti, bensì inducono gli operatori ad agire nel modo desiderato, influendo sulle variabili dalle quali le loro decisioni dipendono",
+      "-Quelle che mirano al raggiungimento degli obiettivi imponendo determinati comportamenti ad alcune categorie di operatori"
+    ],
+    "correct_answer": "-Quelle che mirano al raggiungimento degli obiettivi imponendo determinati comportamenti ad alcune categorie di operatori"
+  },
+  {
+    "question": "Cosa sono le misure di controllo indiretto?",
+    "context_equations": [
+      "Nel modello Mundell-Fleming:",
+      "La IS, a parità di $\\bar..,tende ad essere traslata sulla destra tanto più quanto maggiore è $\\bar x$; inoltre essa è più inclinata di quella in economia chiusa",
+      "La IS, a parità di $\\bar$ e $\\bar G$, tende ad essere traslata sulla sinistra tanto più quanto è maggiore"
+    ],
+    "options": [
+      "- quelle che non impongono un dato comportamento ma inducono gli operatori ad agire nel modo desiderato"
+    ],
+    "correct_answer": "- quelle che non impongono un dato comportamento ma inducono gli operatori ad agire nel modo desiderato"
+  },
+  {
+    "question": "Cosa si intende per illusione monetaria?",
+    "context_equations": [
+      "Assumendo che gli occupati siano 2820 e i disoccupati 180, calcolare il tasso di disoccupazione:",
+      "=180/(2820+180)= 0,06"
+    ],
+    "options": [
+      "-Il meccanismo che guida le aspettative dei lavoratori nel contrattare il salario nel breve periodo secondo Friedman",
+      "-Il meccanismo che fa sì che la spesa pubblica sia spiazzata (Spiazzamento finanziario) dall’aumento dei tassi di interesse indotti dall’aumento della domanda di moneta, rendendo gli effetti della politica illusori.",
+      "-L'aspettativa di maggiori tasse che spiazza (spiazzamento reale) la politica fiscale espansiva in deficit.",
+      "-le imprevedibili aspettative degli imprenditori che guidano le fluttuazioni economiche secondo keynes",
+      "-0,04",
+      "-0,06",
+      "-0,08",
+      "-0,02"
+    ],
+    "correct_answer": "-0,06"
+  },
+  {
+    "question": "Quando si è di fronte ad un trade-off tra due dati obiettivi di politica economica?",
+    "options": [
+      "-Quando non è possibile raggiungere almeno uno dei due obiettivi.",
+      "-quando il raggiungimento di uno rende impossibile il raggiungimento dell’altro.",
+      "-quando è possibile raggiungere entrambi gli obiettivi.",
+      "-Quando con una manovra si riesce a raggiungerli entrambi seppur in tempi diversi"
+    ],
+    "correct_answer": "-quando il raggiungimento di uno rende impossibile il raggiungimento dell’altro."
+  },
+  {
+    "question": "In cosa consiste il drenaggio fiscale e quali sono le cause che lo determinano?",
+    "context_equations": [
+      "Le imprese innovative causano una esternalità positiva poiché le nuove tecnologie potranno essere utilizzate per altre innovazioni, quindi beni prodotti da queste tendono essere:",
+      "Le imprese inquinanti causano una esternalità negativa alla società, quindi i beni prodotti da questi tendono a essere:"
+    ],
+    "options": [
+      "-Riduzione dell’imposizione in termini reali per la compresenza di aumento dei prezzi e proporzionalità delle aliquote.",
+      "-aumento dell’imposizione in termini reali per la compresenza di riduzione dei prezzi e progressività delle aliquote.",
+      "-aumento dell’imposizione in termini reali per la compresenza di aumento dei prezzi e progressività delle aliquote.",
+      "-riduzione dell’imposizione in termini reali per la compresenza di aumento dei prezzi e progressività delle aliquote.",
+      "-sottoprodotti rispetto all’efficienza paretiana.",
+      "-Sottoprodotti rispetto all’efficienza dinamica.",
+      "-sopra prodotti rispetto all’efficienza dinamica.",
+      "-sopra prodotti rispetto all’efficienza paretiana.",
+      "-sottoprodotti rispetto all’efficienza dinamica",
+      "-sopra prodotti rispetto all’efficienza dinamica",
+      "-sovra prodotti rispetto all’efficienza paretiana",
+      "-sottoprodotti rispetto all’efficienza paretiana"
+    ],
+    "correct_answer": "-sovra prodotti rispetto all’efficienza paretiana"
+  },
+  {
+    "question": "In merito al rapporto esistente tra globalizzazione e sovranità cosa si intende per triade incompatibile (impossible trilemma)?",
+    "options": [
+      "-l’impossibilità per tre paesi di praticare tre diversi modelli di Stato sociale.",
+      "-l’impossibilità per un paese di perseguire simultaneamente più di due dei seguenti tre obiettivi autonomia della politica monetaria; regime di cambi fissi, libera circolazione dei capitali",
+      "-le difficoltà di coordinamento internazionale in materia di politiche ambientali, tassazione e tutela della …",
+      "-l’impossibilità per un paese di avere tassi di disoccupazione di crescita di inflazione divergenti da quelli presenti nel resto del mondo"
+    ],
+    "correct_answer": "-l’impossibilità per un paese di perseguire simultaneamente più di due dei seguenti tre obiettivi autonomia della politica monetaria; regime di cambi fissi, libera circolazione dei capitali"
+  },
+  {
+    "question": "Cosa sono i crediti diretti?",
+    "options": [
+      "-crediti emessi dagli intermediari finanziari che ottengono le risorse dei risparmiatori e le allogano tra gli investitori.",
+      "-Insieme di tutte le attività finanziarie esistenti in un’economia.",
+      "-Crediti concessi da risparmiatori a investitori (es. Titoli emessi da imprese, sottoscritti da famiglie)."
+    ],
+    "correct_answer": "-Crediti concessi da risparmiatori a investitori (es. Titoli emessi da imprese, sottoscritti da famiglie)."
+  },
+  {
+    "question": "Cosa rappresenta il tasso interno di rendimento (TIR)?",
+    "options": [
+      "-il tasso di interesse che rende nullo il valore attuale del progetto di investimento.",
+      "-Il tasso di interesse che rende positivo il valore attuale netto del progetto.",
+      "-Il tasso di interesse che eguaglia il valore attuale netto di due progetti.",
+      "-Il tasso di interesse che massimizza il valore attuale netto del progetto."
+    ],
+    "correct_answer": "-il tasso di interesse che rende nullo il valore attuale del progetto di investimento."
+  },
+  {
+    "question": "Quali sono i vantaggi derivati dall’esistenza degli intermediari finanziari?",
+    "options": [
+      "-maggiori depositi attraverso il moltiplicatore, trasformazione delle scadenze, diversificazione dei rischi.",
+      "-Economie di scala e di varietà, risparmi di riserve valutarie, diversificazione dei rischi.",
+      "-maggiore controllo della base monetaria, trasformazione delle scadenze, risparmi di riserve valutarie.",
+      "-economie di scala e di varietà, trasformazione delle scadenze, diversificazione dei rischi."
+    ],
+    "correct_answer": "-economie di scala e di varietà, trasformazione delle scadenze, diversificazione dei rischi."
+  },
+  {
+    "question": "Cosa afferma il teorema di Haavelmo? La variazione del reddito generato da una variazione della spesa pubblica finanziata:",
+    "options": [
+      "-in pareggio è uguale alla variazione della spesa stessa.",
+      "-in deficit è maggiore della variazione della spesa stessa.",
+      "-in deficit è uguale alla variazione della spesa stessa.",
+      "-in pareggio è maggiore della variazione della spesa stessa."
+    ],
+    "correct_answer": "-in pareggio è uguale alla variazione della spesa stessa."
+  },
+  {
+    "question": "Cosa sono i contingenti (o quote)?",
+    "options": [
+      "-Misure di politica commerciale volte ad incentivare le esportazioni.",
+      "-misure di controllo diretto per limitare le importazioni.",
+      "-Misure di controllo indiretto per limitare le importazioni."
+    ],
+    "correct_answer": "-misure di controllo diretto per limitare le importazioni."
+  },
+  {
+    "question": "Nella regolamentazione dei prezzi, in presenza di quale problema si può ricorrere alla yardstick competition?",
+    "options": [
+      "-In presenza di asimmetrie informative riguardo ai prezzi di vendita noti al regolamentatore ma non all’impresa.",
+      "-In presenza di asimmetrie informative riguardo i costi di produzione noti al regolamentatore ma non all’impresa.",
+      "-In presenza di asimmetrie informative riguardo i costi di produzione noti all’impresa ma non al regolamentatore.",
+      "-In presenza di asimmetrie informative riguardo ai prezzi di vendita noti all’impresa ma non al regolamentatore."
+    ],
+    "correct_answer": "-In presenza di asimmetrie informative riguardo i costi di produzione noti all’impresa ma non al regolamentatore."
+  },
+  {
+    "question": "In cosa consiste il signoraggio?",
+    "options": [
+      "-nella possibilità di emettere titoli del debito pubblico per finanziare il deficit dello Stato.",
+      "-Nella possibilità di creare base monetaria per finanziare il deficit dello Stato.",
+      "-Nella possibilità di creare base monetaria per controllare i tassi di interesse.",
+      "-Nella possibilità di emettere titoli del debito pubblico per controllare i tassi di interesse."
+    ],
+    "correct_answer": "-Nella possibilità di creare base monetaria per finanziare il deficit dello Stato."
+  },
+  {
+    "question": "Quali sono, in generale, le condizioni necessarie per una riduzione del rapporto tra debito pubblico e PIL? Quali nel caso specifico in cui il bilancio primario sia in pareggio?",
+    "context_equations": [
+      "NOTA BENE: &gt significa ‘>’ e &lt è ‘<’"
+    ],
+    "options": [
+      "-Il tasso di crescita del debito &lt; Tasso di crescita del reddito; tasso di interesse reale &gt; Tasso di crescita del PIL.",
+      "-Il tasso di crescita del debito &gt; tasso di crescita del reddito; tasso di interesse reale&lt; tasso di crescita del PIL.",
+      "-Il tasso di crescita del debito &lt; tasso di crescita del reddito; tasso di interesse reale &lt; tasso di crescita del PIL.",
+      "-Il tasso di crescita del debito &gt; tasso di crescita del reddito; tasso di interesse reale &gt; tasso di crescita del PIL."
+    ],
+    "correct_answer": "-Il tasso di crescita del debito &lt; tasso di crescita del reddito; tasso di interesse reale &lt; tasso di crescita del PIL."
+  },
+  {
+    "question": "Cosa misura il cuneo fiscale?",
+    "options": [
+      "-L’incidenza sul costo del lavoro degli oneri dello Stato sociale.",
+      "-L’incidenza sul costo del lavoro degli oneri previdenziali e del trattamento di fine rapporto.",
+      "-L’incidenza sul costo del lavoro dei contributi sociali.",
+      "-L’incidenza sul costo del lavoro dei contributi sociali e delle imposte sul reddito dei lavoratori."
+    ],
+    "correct_answer": "-L’incidenza sul costo del lavoro dei contributi sociali e delle imposte sul reddito dei lavoratori."
+  },
+  {
+    "question": "Con riferimento ai mercati finanziari internazionali, cosa si intende per effetto gregge (herding behaviour)?",
+    "options": [
+      "-Il comportamento di operatori che agiscano nel convincimento di sapere più degli altri l’evoluzione futura dei prezzi dei titoli.",
+      "-il comportamento di operatori finanziari volto a contrastare fenomeni di speculazione sui cambi oppure fughe di capitali imputabili a ragioni politiche.",
+      "-Il caso in cui determinati soggetti, in presenza di incompletezza dell’informazione, siano indotti a seguire le scelte di qualcuno che si ritengono disporre di maggiore informazione.",
+      "-Pacchetto di iniziative dirette a proteggere i paesi in via di spin lupo dei rischi legati alla globalizzazione finanziaria."
+    ],
+    "correct_answer": "-Il caso in cui determinati soggetti, in presenza di incompletezza dell’informazione, siano indotti a seguire le scelte di qualcuno che si ritengono disporre di maggiore informazione."
+  },
+  {
+    "question": "Cosa si intende per tasso di cambio certo per incerto?",
+    "options": [
+      "-Quantità della valuta estera necessaria per acquistare una data quantità di valuta nazionale.",
+      "-Quantità della valuta nazionale necessaria per acquistare una data quantità di valuta estera.",
+      "-Prezzo della valuta fissato oggi per operazioni di scambio valuta che vengono oggi.",
+      "-Prezzo della valuta fissato oggi per operazioni di scambio valuta che avvengono ad una data futura prefissata oggi."
+    ],
+    "correct_answer": "-Quantità della valuta estera necessaria per acquistare una data quantità di valuta nazionale."
+  },
+  {
+    "question": "Cosa si intende per tasso di cambio incerto per certo?",
+    "context_equations": [
+      "Prezzo di una valuta fissato oggi per operazioni di scambio della valuta che avvengono ad un a data futura prefissata oggi."
+    ],
+    "options": [
+      "-quantità della valuta nazionale necessaria per acquistare una data quantità di valuta estera",
+      "-Prezzo di una valuta fissato oggi per operazioni di scambio della valuta che avvengono oggi.",
+      "-Quantità di valuta estera necessaria per acquistare una data quantità di valuta nazionale."
+    ],
+    "correct_answer": "-quantità della valuta nazionale necessaria per acquistare una data quantità di valuta estera"
+  },
+  {
+    "question": "Cosa sono i beni pubblici?",
+    "options": [
+      "-Beni prodotti dallo Stato.",
+      "-Beni associati a situazioni nelle quali l’azione di un operatore causa vantaggio danni ad altri, senza che per ciò si paghi un prezzo.",
+      "-Beni che si caratterizzano per la non rivalità e la non escludibilità.",
+      "-beni la cui produzione è caratterizzata da azzardo morale o monopolio naturale"
+    ],
+    "correct_answer": "-Beni che si caratterizzano per la non rivalità e la non escludibilità."
+  },
+  {
+    "question": "Cosa comporta la retroazione monetaria?",
+    "options": [
+      "-Uno spiazzamento finanziario",
+      "-uno spiazzamento reale.",
+      "-L’automatismo della politica monetaria.",
+      "-La discrezionalità della politica monetaria."
+    ],
+    "correct_answer": "-Uno spiazzamento finanziario"
+  },
+  {
+    "question": "In cosa consiste la retroazione monetaria?",
+    "options": [
+      "-L’aumento del reddito, indotto da un aumento della spesa pubblica, riduce la domanda di moneta e quindi il tasso di interesse che a sua volta riduce gli investimenti privati.",
+      "-l’aumento del reddito, indotto da un aumento della spesa pubblica, aumenta la domanda di moneta e quindi il tasso di interesse che a sua volta riduce gli investimenti privati.",
+      "-L’aumento del reddito, indotto da un aumento della spesa pubblica, riduce la domanda di moneta e quindi riduce il tasso di interesse e gli investimenti privati.",
+      "-L’aumento del reddito, indotto da un aumento della spesa pubblica, aumenta la domanda di moneta e quindi riduce il tasso interesse e gli investimenti privati."
+    ],
+    "correct_answer": "-l’aumento del reddito, indotto da un aumento della spesa pubblica, aumenta la domanda di moneta e quindi il tasso di interesse che a sua volta riduce gli investimenti privati."
+  },
+  {
+    "question": "Quali sono le caratteristiche della curva di Phillips, secondo i monetaristi nel lungo periodo?",
+    "options": [
+      "-È verticale in corrispondenza del tasso naturale di disoccupazione, per cui si registra un trade-off tra inflazione e disoccupazione.",
+      "-È verticale in corrispondenza del tasso naturale di disoccupazione.",
+      "-È inclinata positivamente, ogni tentativo di spostarla implica un aumento dell’inflazione a parità di tasso naturale di disoccupazione.",
+      "-È inclinata negativamente, ogni tentativo di spostarla implica un aumento dell’inflazione a parità di tasso naturale di disoccupazione."
+    ],
+    "correct_answer": "-È verticale in corrispondenza del tasso naturale di disoccupazione."
+  },
+  {
+    "question": "Cos’è la curva di Phillips derivata?",
+    "options": [
+      "-Una relazione negativa tra tasso di inflazione dei prezzi e tasso di disoccupazione.",
+      "-Una relazione negativa tra Pil e tasso di disoccupazione.",
+      "-Una relazione negativa tra la spesa pubblica in deficit e tasso di disoccupazione.",
+      "-Una relazione negativa tra tasso di inflazione dei salari e tasso di disoccupazione."
+    ],
+    "correct_answer": "-Una relazione negativa tra tasso di inflazione dei prezzi e tasso di disoccupazione."
+  },
+  {
+    "question": "Cos’è la curva di Phillips originaria?",
+    "context_equations": [
+      "L’imposizione progressiva può essere considerata uno stabilizzatore automatico perché fa valore:",
+      "In X la distribuzione delle risorse esistenti tra i 5 membri di una collettività A, B, C, D, E, è tale per cui i loro livelli di benessere sono rispettivamente 10, 8, 6, 4, 8. In Y, la distribuzione è tale per cui i livelli di benessere dei 5 individui sono, rispettivamente 9,9,8,8,9. Facendo riferimento al criterio paretiano si indichi quale delle seguenti affermazioni è corretta:",
+      "La possibilità di un paese di migliorare la ragione di scambio attraverso un dazio sulle importazioni:"
+    ],
+    "options": [
+      "-relazione (negativa) tra tasso di inflazione dei salari e tasso di disoccupazione.",
+      "-la spesa pubblica nello stesso senso del Pil",
+      "-Il gettito fiscale in senso contrario al Pil.",
+      "-Il moltiplicatore del reddito nello stesso senso del Pil.",
+      "-Il moltiplicatore del reddito in senso contrario al Pil.",
+      "-la situazione Y è più efficiente della situazione X.",
+      "-la situazione Y è completamente superiore alla situazione X.",
+      "-La situazione Y è più equa della situazione X.",
+      "-Le due situazioni non sono confrontabili.",
+      "-dipende esclusivamente dal fatto che ci sia un meno anche una produzione interna del prodotto colpito dal dazio.",
+      "-Dipende dalle condizioni di domanda e di offerta relativa al prodotto interessato.",
+      "-È tanto maggiore quanto più è piccolo il paese che induce il dazio.",
+      "-dipende dal fatto che i paesi interessati operino in regime di cambi fissi o di cambi flessibili"
+    ],
+    "correct_answer": "-Dipende dalle condizioni di domanda e di offerta relativa al prodotto interessato."
+  },
+  {
+    "question": "Quale tra le seguenti può essere definita come una politica dei redditi dirigistica?",
+    "options": [
+      "-Scambio economico (vantaggi fiscali economici per le parti che si accordano).",
+      "-blocco dei salari.",
+      "-contenimento delle dinamiche inflazionistiche premiato dal governo attraverso incentivi fiscali. -Obbligo esplicito di cooperazione o almeno arbitrato finale",
+      "-crea moneta e crea ricchezza",
+      "-non crea moneta e non crea ricchezza",
+      "-crea moneta, ma non crea ricchezza",
+      "-non crea moneta, ma crea ricchezza"
+    ],
+    "correct_answer": "-crea moneta, ma non crea ricchezza"
+  },
+  {
+    "question": "Quando i decisori di politica economica devono calcolare i prezzi ombra?",
+    "options": [
+      "-Quando devono valutare un progetto pubblico i cui costi sono correnti e i benefici futuri.",
+      "-quando devono calcolare il tasso di sconto sociale.",
+      "-Quando fanno l’analisi costi benefici utilizzando il tasso di rendimento interno.",
+      "-quando i mercati mancano oppure non sono concorrenziali."
+    ],
+    "correct_answer": "-quando i mercati mancano oppure non sono concorrenziali."
+  },
+  {
+    "question": "Cosa misura la povertà assoluta?",
+    "options": [
+      "-Le persone con una ricchezza al di sotto di un valore soglia ritenuto uno standard minimo accettabile.",
+      "-Le persone con redditi sotto una certa percentuale nella distribuzione dei redditi",
+      "- le persone con redditi al di sotto di un valore soglia ritenuto uno standard di vita minimo accettabile.",
+      "-Le persone con redditi sotto una certa percentuale nella distribuzione della ricchezza."
+    ],
+    "correct_answer": "-Le persone con una ricchezza al di sotto di un valore soglia ritenuto uno standard minimo accettabile."
+  },
+  {
+    "question": "Considerando una regola di fissazione dei prezzi secondo il principio del costo pieno, da cosa dipende l’inflazione?",
+    "options": [
+      "-Dalle variazioni della domanda aggregata, produttività, markup lordo.",
+      "-Dalle variazioni della produttività, salari, domanda aggregata.",
+      "-Dalle variazioni dei salari, domanda aggregata, markup lordo.",
+      "-Dalle variazioni dei salari, produttività, markup lordo."
+    ],
+    "correct_answer": "-Dalle variazioni dei salari, produttività, markup lordo."
+  },
+  {
+    "question": "Cosa si intende per fallimento dello Stato?",
+    "options": [
+      "- Quando l’intervento pubblico reale non corrisponde a quello ideale e i risultati che realizza sono peggiori sul terreno dell’efficienza.",
+      "-Quando l’intervento pubblico reale non corrisponde a quello ideale e i risultati che realizza sono peggiori sul terreno dell’efficienza e/o dell’equità.",
+      "-quando l’intervento pubblico reale non corrisponde a quello ideale e crea esso stesso un fallimento del mercato.",
+      "-Quando l’intervento pubblico reale non corrisponde a quello ideale e i risultati del realizzo sono peggiori sul terreno dell’equità."
+    ],
+    "correct_answer": "-Quando l’intervento pubblico reale non corrisponde a quello ideale e i risultati che realizza sono peggiori sul terreno dell’efficienza e/o dell’equità."
+  },
+  {
+    "question": "Cosa afferma il I teorema dell’economia del benessere?",
+    "options": [
+      "-L’equilibrio concorrenziale, se esiste un ottimo paretiano.",
+      "-assumendo insieme di preferenze di produzione convessi, l’equilibrio concorrenziale, se esiste un ottimo paretiano.",
+      "-assumendo un insieme completo di mercati, ogni posizione di ottimo paretiano può essere realizzata come equilibrio concorrenziale, previa un’appropriata redistribuzione delle risorse tra gli individui.",
+      "-Assumendo un insieme completo di mercati, l’equilibrio concorrenziale, se esiste è un ottimo paretiano."
+    ],
+    "correct_answer": "-Assumendo un insieme completo di mercati, l’equilibrio concorrenziale, se esiste è un ottimo paretiano."
+  },
+  {
+    "question": "In un modello di politica economica, cosa si intende per le variabili esogene?",
+    "options": [
+      "-Quelle che interagiscono reciprocamente con tutte le altre variabili presenti nel modello, ma sono fissate esogenamente.",
+      "-quelle che rispondono a logiche di comportamenti estranei all’impostazione teorica adottata del modello.",
+      "-Quelle che determinano altre variabili, ma non ne sono influenzate.",
+      "-quelle che possono determinare altre variabili presenti nel modello, ma dipendono da altre variabili anche esogene."
+    ],
+    "correct_answer": "-Quelle che determinano altre variabili, ma non ne sono influenzate."
+  },
+  {
+    "question": "Quale tra le seguenti non rappresenta una delle cause della crescita imperiosa della spesa sociale osservata fino agli anni 80?",
+    "options": [
+      "-la stabilità delle quote distributive (legge di Bowley)",
+      "-crescita della botta di risorse impiegate in settori a bassa crescita della produttività (legge di Baumol)",
+      "-invecchiamento della popolazione e crescita della spesa per sanità e pensioni",
+      "-aumento relativo della domanda per servizi sociali al crescere del reddito (legge di Wagner)."
+    ],
+    "correct_answer": "-la stabilità delle quote distributive (legge di Bowley)"
+  },
+  {
+    "question": "Quando il sistema bancario non crea moneta?",
+    "options": [
+      "-quando il coefficiente di riserva obbligatoria è pari ad 1",
+      "-quando il pubblico non detiene tutto il circolante",
+      "-quando è presente una banca centrale",
+      "-quando si è in presenza di una riserva frazionarie sui depositi"
+    ],
+    "correct_answer": "-quando è presente una banca centrale"
+  },
+  {
+    "question": "Quando il sistema bancario crea moneta ?",
+    "options": [
+      "-Quando non è presente una banca centrale",
+      "-Quando il pubblico detiene tutto il circolante",
+      "-Quando si è in presenza di una riserva frazionaria sui depositi",
+      "-Quando il coefficiente di riserva obbligatoria è pari ad 1"
+    ],
+    "correct_answer": "-Quando si è in presenza di una riserva frazionaria sui depositi"
+  },
+  {
+    "question": "Quale delle seguenti situazioni può implicare l’emergere di una esternalità?",
+    "options": [
+      "-presenza di beni non omogenei",
+      "-presenza di monopoli naturali",
+      "-assenza di accordi o intese tra gli operatori",
+      "-assenza di diritti di proprietà individuali sulle risorse"
+    ],
+    "correct_answer": "-assenza di diritti di proprietà individuali sulle risorse"
+  },
+  {
+    "question": "Ipotizzando di essere nella borsa di New York dove il cambio esprime la quantità di euro per un dollaro, spiegare cosa implica un suo textit (aumento) per la competitività dell’Europa e se si tratta di apprezzamento o deprezzamento dell’euro?",
+    "context_equations": [
+      "La difesa delle industrie nascenti, come argomentazione a favore del protezionismo:"
+    ],
+    "options": [
+      "-un dollaro vale più euro, la competitività EU si riduce, si tratta di un apprezzamento dell’euro",
+      "-un dollaro vale più euro, la competitività EU si riduce, si tratta di un deprezzamento dell’euro",
+      "-un dollaro vale più euro, la competitività EU aumenta, si tratta di un deprezzamento dell’euro",
+      "- un dollaro vale più euro, la competitività EU aumenta, si tratta di un apprezzamento dell’euro",
+      "-Si basa sulla prospettiva di migliorare la ragione di scambio attraverso l’imposizione di dazi sulle importazioni",
+      "-mira ad accrescere l’occupazione di un paese a scapito del resto del mondo",
+      "-Mira a tutelare l’industria nazionale dal lavoro straniero a buon mercato",
+      "-sostiene l’imposizione temporanea di dazi giustificata dall’esistenza di economie di scala dinamiche (processi di apprendimento)."
+    ],
+    "correct_answer": "-sostiene l’imposizione temporanea di dazi giustificata dall’esistenza di economie di scala dinamiche (processi di apprendimento)."
+  },
+  {
+    "question": "Quale tra le seguenti teorie non rappresenta un argomentazione in favore del protezionismo?",
+    "options": [
+      "-teoria del dazio ottimo (miglioramento ragione di scambio)",
+      "-teoria del second Best",
+      "-teoria dei costi comparati",
+      "-teoria dell’industria nascente"
+    ],
+    "correct_answer": "-teoria dei costi comparati"
+  },
+  {
+    "question": "Quali sono gli obiettivi microeconomici delle politiche di controllo dei prezzi?",
+    "options": [
+      "-fissare prezzi minimi per salvaguardare il potere di acquisto e/o fissare prezzi massimi per contenere l’inflazione",
+      "-fissare prezzi minimi per proteggere i consumatori e/o fissare i prezzi massimi come politica antimonopolistica",
+      "-fissare i prezzi minimi per proteggere i redditi e/o fissare i prezzi massimi come politica antimonopolistica",
+      "-fissare prezzi minimi per ridurre i profitti (promuovere equità) e/o fissare i prezzi massimi per contenere l’inflazione."
+    ],
+    "correct_answer": "-fissare i prezzi minimi per proteggere i redditi e/o fissare i prezzi massimi come politica antimonopolistica"
+  },
+  {
+    "question": "Quale delle seguenti tipologie di comportamenti può essere associata all’azzardo morale?",
+    "options": [
+      "-quella che dà luogo a beni per i quali a fronte di effetti positivi sul consumo di un soggetto derivanti dal consumo di un altro soggetto non viene corrisposto alcun prezzo",
+      "-quella che dà luogo a beni caratterizzati dalla non rivalità e dalla non escludibilità",
+      "-quella che dà luogo a beni per i quali lo Stato vuole assicurare un certo livello di consumo, al di là e al di sopra della quantità che ne viene autonomamente domandata dai vari individui.",
+      "-quella in cui una delle parti, successivamente alla decisione di effettuare la transazione, non riesce ad osservare le azioni compiute dall’altra parte.",
+      "-aumento produzione interna, riduzione del consumo interno, riduzione prezzo mondiale, creazione di gettito",
+      "-riduzione produzione interna, riduzione consumo interno, creazione di gettito",
+      "-riduzione della produzione interna, riduzione del consumo interno, riduzione prezzo mondiale, creazione di gettito",
+      "-aumento produzione interna, riduzione consumo interno, creazione di gettito"
+    ],
+    "correct_answer": "-aumento produzione interna, riduzione consumo interno, creazione di gettito"
+  },
+  {
+    "question": "Perché a causa dell’asimmetria informativa il mercato auto usate può implicare l’incompetenza dei mercati?",
+    "options": [
+      "-per la selezione avversa, l’acquirente (agente) non può serbare la quantità dell’auto usata che il venditore (principale) propone. L’acquirente e quindi sarà disposto a comprare solo bidoni, non esiste il mercato dell’auto usate di buona qualità.",
+      "-per la selezione avversa, l’acquirente (principale) non può osservare la qualità dell’auto usata che il venditore (agente) propone. L’acquirente quindi verrà messo nella condizione di comprare solo bidoni, assottigliando il mercato dell’auto usate di buona qualità.",
+      "-per l’azzardo morale, l’acquirente (agente) non può osservare la qualità dell’auto usata che il venditore (principale) propone. L’acquirente quindi sarà disposto a comprare solo bidoni, non esiste il mercato dell’auto usate di buona qualità.",
+      "-per l’azzardo morale, l’acquirente (principale) non può osservare la qualità dell’auto usata che il venditore (agente) propone. L’acquirente quindi sarà disposto a comprare solo bidoni, non esiste il mercato delle auto usate di buona qualità."
+    ],
+    "correct_answer": "-per la selezione avversa, l’acquirente (principale) non può osservare la qualità dell’auto usata che il venditore (agente) propone. L’acquirente quindi verrà messo nella condizione di comprare solo bidoni, assottigliando il mercato dell’auto usate di buona qualità."
+  },
+  {
+    "question": "Perché a causa dell’asimmetria informativa il mercato assicurativo può implicare l’incompetenza dei mercati?",
+    "options": [
+      "-Per l'azzardo morale, l'assicuratore (principale) non può osservare come l'acquirente della polizza (agente) si comporterà. Proporrà quindi solo (costose) polizze per agenti rischiosi, assottigliando il mercato delle polizze per agenti poco rischiosi.",
+      "-Per la selezione avversa, l'assicuratore (principale) non può osservare come l'acquirente della polizza (agente) si comporterà.proporrà quindi solo (costose) polizze per agenti rischiosi, non esiste il mercato delle polizze per agenti poco rischiosi.",
+      "-Per la selezione avversa, l'assicuratore (agente) non può osservare come l'acquirente della polizza (principale) si comporterà.proporrà quindi solo (costose) polizze per agenti rischiosi, non esiste il mercato delle polizze per agenti poco rischiosi.",
+      "-Per l'azzardo morale, l'assicuratore (agente) non può osservare come l'acquirente della polizza (principale) si comporterà. proporrà quindi solo (costose) polizze per agenti rischiosi, non esiste il mercato delle polizze per agenti poco rischiosi."
+    ],
+    "correct_answer": "-Per l'azzardo morale, l'assicuratore (principale) non può osservare come l'acquirente della polizza (agente) si comporterà. Proporrà quindi solo (costose) polizze per agenti rischiosi, assottigliando il mercato delle polizze per agenti poco rischiosi."
+  },
+  {
+    "question": "Cosa rappresenta il VAN assoluto di un progetto di investimento?",
+    "options": [
+      "-la differenza tra i valori attuali di tutti i benefici e di tutti i costi.",
+      "-il valore attuale della differenza tra benefici totali al netto delle tasse e costi totali",
+      "-il valore attuale della differenza tra benefici totali e costi totali",
+      "-il valore attuale dei benefici totali meno i costi totali tenendo conto anche del costo dell’investimento"
+    ],
+    "correct_answer": "-la differenza tra i valori attuali di tutti i benefici e di tutti i costi."
+  },
+  {
+    "question": "Quando possiamo osservare l’azzardo morale in una transazione?",
+    "options": [
+      "-quando un individuo (principale) non può osservare importanti caratteristiche esogene dell’altro (agente) o del bene che questo vende.",
+      "-quando un individuo (agente) non può osservare importanti caratteristiche esogene dell’altro (principale) o del bene che questo vende.",
+      "-quando un individuo (principale) non può osservare importanti azioni dell’altro (agente).",
+      "-quando un individuo (agente) non può serbare importanti azioni dell’altro (principale)."
+    ],
+    "correct_answer": "-quando un individuo (principale) non può osservare importanti azioni dell’altro (agente)."
+  },
+  {
+    "question": "Quando possiamo osservare la selezione avversa in una transazione?",
+    "options": [
+      "-quando un individuo (principale) non può osservare importanti azioni dell'altro (agente)",
+      "-quando un individuo (principale) non può osservare importanti caratteristiche esogene dell'altro (agente) o del bene che questo vende",
+      "-quando un individuo (agente) non può osservare importanti caratteristiche esogene dell'altro (principale) o del bene che questo vende",
+      "-quando un individuo (agente) non può osservare importanti azioni dell'altro (principale)",
+      "-in A almeno un individuo sta meglio che in B e nessuno sta peggio",
+      "-in B almeno un individuo sta meglio che in A",
+      "-in B almeno un individuo sta meglio che in A e nessuno sta peggio",
+      "-in A almeno un individuo sta meglio che in B"
+    ],
+    "correct_answer": "-in A almeno un individuo sta meglio che in B e nessuno sta peggio"
+  },
+  {
+    "question": "Cos’è l’inflazione?",
+    "options": [
+      "-consiste in un uguale aumento una tantum di tutti i prezzi e, pertanto, nella corrispondente perdita di valore della moneta.",
+      "-consiste in aumenti dei salari monetari che si trasferiscono in aumenti dei prezzi per via della curva di Phillips",
+      "-consiste in un aumento persistente del livello generale dei prezzi e in una perdita di valore della moneta",
+      "-una redistribuzione del reddito che favorisce i creditori e penalizza i debitori"
+    ],
+    "correct_answer": "-consiste in un aumento persistente del livello generale dei prezzi e in una perdita di valore della moneta"
+  },
+  {
+    "question": "Riguardo agli effetti sul reddito, quale delle seguenti affermazioni può essere riferita a Friedman?",
+    "options": [
+      "-la politica monetaria è efficace solo nel breve periodo, ma è in grado di influenzare il reddito",
+      "-la politica monetaria non è mai efficace, poiché la teoria quantitativa della moneta vale sia nel breve sia nel lungo periodo",
+      "-la politica monetaria è efficace nel breve periodo che è solo periodo rilevante per valutare la sua azione"
+    ],
+    "correct_answer": null
+  },
+  {
+    "question": "Perché può essere utile spostare la curva di Phillips derivata verso il basso?",
+    "options": [
+      "-significa poter avere lo stesso tasso di variazione dei salari nominali con un minore tasso di disoccupazione",
+      "-significa poter avere lo stesso tasso di disoccupazione con un minore tasso di inflazione",
+      "-significa poter avere lo stesso tasso di disoccupazione con un minore tasso di variazione dei salari nominali",
+      "-significa poter avere lo stesso tasso di variazione dei salari nominali con un minore tasso di inflazione"
+    ],
+    "correct_answer": "-significa poter avere lo stesso tasso di disoccupazione con un minore tasso di inflazione"
+  },
+  {
+    "question": "Quali tra le seguenti possono essere catalogate come politiche per il riequilibrio della bilancia dei pagamenti?",
+    "context_equations": [
+      "Alcune riforme dello Stato sociale, nel tentativo di ridurne il costo, hanno introdotto elementi di mercato nella sua gestione, esempi di queste politiche sono:"
+    ],
+    "options": [
+      "-riequilibrio dei movimenti di capitale, politiche macroeconomiche, politiche per la competitività",
+      "-controllo dei prezzi, tasse pigouviane, politiche per la competitività",
+      "-riequilibrio dei movimenti di capitale, tasse pigouviane, politiche per la produttività",
+      "-politiche dei redditi, tasse pigouviane, politiche per la competitività",
+      "-introduzione nella previdenza di un sistema retributivo invece dal sistema contributivo",
+      "-mercati interni in sanità, ossia concorrenza fra centri autonomi di spesa decentralizzati",
+      "-imposizione pigouviana per internalizzare le esternalità presenti nel sistema previdenziale",
+      "-impresa pubblica nei trasporti locali per produrre le quantità efficienti in mercati caratterizzati da monopoli naturali"
+    ],
+    "correct_answer": "-mercati interni in sanità, ossia concorrenza fra centri autonomi di spesa decentralizzati"
+  },
+  {
+    "question": "Cosa si intende per moneta bancaria?",
+    "context_equations": [
+      "In merito al saldo dei movimenti di beni partite correnti nella bilancia dei pagamenti, può dirsi:",
+      "In base a quale criterio vengono generalmente aggregate le attività finanziarie dando luogo agli aggregati monetari (M1, M2, M3)"
+    ],
+    "options": [
+      "-depositi dei privati presso le banche.",
+      "-circolante detenuto dai privati e riserve delle banche",
+      "-circolante detenuto dai privati",
+      "-moneta fiduciaria",
+      "-che esso dipende da fattori di domanda, fattori strutturali e fattori di competitività",
+      "-che se è positivo se la propensione alle importazioni del paese considerato è inferiore a quella del resto del mondo",
+      "-che un aumento del tasso di cambio reale riduce il volume delle importazioni ed accresce quello delle esportazioni",
+      "-che i fattori di competitività di prezzo sono rappresentati esclusivamente dei prezzi interni ed ai prezzi del resto del mondo espressi nelle rispettive monete",
+      "-grandezza",
+      "-rischiosità",
+      "-liquidità",
+      "-utilizzo"
+    ],
+    "correct_answer": "-liquidità"
+  },
+  {
+    "question": "Considerando il caso di perfetta informazione, come possiamo valutare le due soluzioni al problema delle esternalità basate sulle imposte pigouviane e sulla regolamentazione?",
+    "context_equations": [
+      "Indicare un metodo attraverso cui si può effettuare il controllo dei prezzi massimi fissato dagli imprenditori privati:"
+    ],
+    "options": [
+      "-che la prima è superiore alla seconda",
+      "-che la seconda è superiore alla prima",
+      "-che sono inconfrontabili",
+      "-che sono equivalenti",
+      "- pubblici",
+      "-tassazione pigouviana",
+      "-fissazione del margine di profitto",
+      "-ricorso all’impresa pubblica"
+    ],
+    "correct_answer": "-fissazione del margine di profitto"
+  },
+  {
+    "question": "In presenza di profitti, quali effetti avrà all’entrata di nuove imprese in un mercato contendibilità di concorrenza perfetta?",
+    "options": [
+      "-l’offerta di mercato aumenterà, ma l’offerta delle singole imprese che rimangono sul mercato si ridurrà",
+      "-l’offerta di mercato aumenterà, come l’offerta delle singole imprese che rimangono sul mercato",
+      "-l’offerta di mercato si ridurrà, come l’offerta delle singole imprese che rimangono sul mercato",
+      "-l’offerta di mercato si ridurrà, ma l’offerta delle singole imprese che rimangono sul mercato aumenterà"
+    ],
+    "correct_answer": "-l’offerta di mercato aumenterà, ma l’offerta delle singole imprese che rimangono sul mercato si ridurrà"
+  },
+  {
+    "question": "In presenza di perdite, quali effetti avrà l’uscita di imprese in un mercato contendibile e di concorrenza perfetta?",
+    "options": [
+      "-il prezzo del bene aumenterà",
+      "-il prezzo del bene potrebbe aumentare o ridursi (effetti incerti)",
+      "-il prezzo del bene si ridurrà",
+      "-il prezzo del bene rimarrà invariato"
+    ],
+    "correct_answer": "-il prezzo del bene aumenterà"
+  },
+  {
+    "question": "Su cosa si fonda la critica di Lucas ai modelli di politica economica?",
+    "options": [
+      "-le politiche pubbliche hanno come obiettivo la modifica dei parametri delle funzioni di comportamento, che non possono essere stimati",
+      "-le scelte dei policy makers possono influenzare anche i parametri delle funzioni di comportamento dei privati",
+      "-I sistemi di equazioni che li compongono implicano una soluzione simultanea mentre nella realtà c’è decentramento delle responsabilità e delle decisioni riguardanti i diversi strumenti utilizzati",
+      "-per la presenza di rigidità nei comportamenti dei privati e il loro ruolo tendenzialmente passivo, le scelte dei policy makers risultano sostanzialmente inefficaci"
+    ],
+    "correct_answer": "-le scelte dei policy makers possono influenzare anche i parametri delle funzioni di comportamento dei privati"
+  },
+  {
+    "question": "A cosa corrisponde la moneta?",
+    "context_equations": [
+      "In un sistema di tassazione con imposizione progressiva:"
+    ],
+    "options": [
+      "-attivo del bilancio della banca centrale",
+      "-passivo del bilancio consolidato del sistema bancario",
+      "-attivo del bilancio consolidato del sistema bancario",
+      "-passivo del bilancio della banca centrale",
+      "-l’aliquota non è costantemente crescente con il suo reddito",
+      "-l’aliquota non è costante ma è crescente con il reddito",
+      "-il gettito decresce assieme al reddito",
+      "-il gettito cresce assieme al reddito nella stessa proporzione"
+    ],
+    "correct_answer": "-l’aliquota non è costante ma è crescente con il reddito"
+  },
+  {
+    "question": "Cosa si intende per efficienza allocativa?",
+    "options": [
+      "-uguaglianza dei SMS per ogni coppia di beni tra i vari consumatori",
+      "-uguaglianza tra SMS e SMST",
+      "-Fa riferimento alla capacità di adattarsi al cambiamento e di innovare",
+      "-uguaglianza tra SMS e SMT."
+    ],
+    "correct_answer": "-uguaglianza dei SMS per ogni coppia di beni tra i vari consumatori"
+  },
+  {
+    "question": "Cosa si intende per efficienza dinamica?",
+    "options": [
+      "-a. uguaglianza dei SMS per ogni coppia di beni tra i vari consumatori",
+      "-b. uguaglianza dei SMST per ogni coppia di fattori (input) tra le varie produzioni",
+      "-c. capacità di adattarsi al cambiamento e di innovare",
+      "-d. capacità dell’organizzazione aziendale di allocare le risorse in modo efficiente"
+    ],
+    "correct_answer": "-c. capacità di adattarsi al cambiamento e di innovare"
+  },
+  {
+    "question": "Cosa si intende per efficienza generale?",
+    "options": [
+      "-uguaglianza dei SMS per ogni coppia di beni tra i vari consumatori",
+      "-uguaglianza tra SMS e SMST",
+      "-Fa riferimento alla capacità di adattarsi al cambiamento e di innovare",
+      "-uguaglianza tra SMS e SMT.",
+      "-Entrare liberamente e senza costi e dai quali possono uscire liberamente e senza costi",
+      "-Entrare liberamente e dai quali possono uscire con compenso da parte delle altre imprese",
+      "-Entrare liberamente e senza costi e dai quali possono uscire solo se sono di dimensione limitate",
+      "-Entrare liberamente e senza costi e dai possono uscire con piccoli costi"
+    ],
+    "correct_answer": "-Entrare liberamente e senza costi e dai quali possono uscire liberamente e senza costi"
+  },
+  {
+    "question": "In cosa consiste lo spiazzamento reale della spesa pubblica finanziata con emissione di debito pubblico?",
+    "options": [
+      "-Nella riduzione degli investimenti privati che compensa l’aumento di spesa pubblica. La causa sta nell’aumento dei tassi di interesse determinato dall’aumento di domanda di moneta conseguente all’espansione del reddito in presenza di costanza nell’offerta di moneta.",
+      "-nella riduzione degli investimenti privati che compensa l’aumento di spesa pubblica. Ciò dipende dal fatto che i consumatori, prevedendo di dover rimborsare in futuro il nuovo debito pubblico con nuove imposte, aumentano il risparmio",
+      "-nella riduzione dei consumi privati che compensa l’aumento di spesa pubblica. La causa sta nell’aumento dei tassi di interesse è determinato dall’aumento di domanda di moneta conseguente all’espansione del reddito in presenza di costanza dell’offerta di moneta",
+      "-nella riduzione dei consumi privati che compensa l’aumento di spesa pubblica. Ciò dipende dal fatto che i consumatori, prevedendo di dover rimborsare in futuro il nuovo debito pubblico con nuove imposte, aumentano il risparmio."
+    ],
+    "correct_answer": "-nella riduzione dei consumi privati che compensa l’aumento di spesa pubblica. Ciò dipende dal fatto che i consumatori, prevedendo di dover rimborsare in futuro il nuovo debito pubblico con nuove imposte, aumentano il risparmio."
+  },
+  {
+    "question": "Quando cresce il rapporto debito PIL?( nota dx è la variazione di x, ovvero x pallino nella simbologia del libro testo)",
+    "options": [
+      "-a. dB+dp-dy maggiore di zero",
+      "-b. dB-dp+dY maggiore di zero",
+      "-c. dB+dp-dY maggiore di zero",
+      "-d. dB-dp-dY maggiore di zero"
+    ],
+    "correct_answer": "-d. dB-dp-dY maggiore di zero"
+  },
+  {
+    "question": "Che cosa afferma il I teorema di Arrow?",
+    "options": [
+      "-che è impossibile confrontare due o più ottimi paretiani",
+      "-che non esiste un criterio di scelta che soddisfi un insieme minimo di (ragionevoli) postulati",
+      "-il criterio di pareto può avere solo un carattere di.. parziale (.. dello status quo)",
+      "-che non è possibile definire un criterio di scelta che soddisfi un insieme minimo di (ragionevoli) postulati differente al criterio di pareto"
+    ],
+    "correct_answer": "-che non è possibile definire un criterio di scelta che soddisfi un insieme minimo di (ragionevoli) postulati differente al criterio di pareto"
+  },
+  {
+    "question": "Cos’è equo?",
+    "options": [
+      "- esiste un’unica concezione che si basa sull’eguaglianza dei risultati",
+      "-esiste un’unica concezione che si basa sull’eguaglianza delle opportunità",
+      "-esistono varie concezioni non convergenti, ma collegate comunque a una qualche idea di eguaglianza",
+      "-esistono varie concezioni convergenti ad un’idea di eguaglianza"
+    ],
+    "correct_answer": "-esistono varie concezioni non convergenti, ma collegate comunque a una qualche idea di eguaglianza"
+  },
+  {
+    "question": "A cosa corrisponde un deficit della bilancia dei pagamenti nel mercato valutario?",
+    "context_equations": [
+      "Con riferimento al modello IS/LM si spieghino gli effetti di un aumento della quantità di moneta sul reddito e sul tasso di interesse:",
+      "Con riferimento al modello IS/LM si spieghino gli effetti di una riduzione della quantità di moneta sul reddito e sul tasso di interesse:"
+    ],
+    "options": [
+      "-Ad un eccesso di offerta di moneta.",
+      "-ad un eccesso di domanda di moneta.",
+      "-ad un eccesso di domanda di valuta estera.",
+      "-ad un eccesso di offerta di valuta estera.",
+      "-Un aumento dell’offerta di moneta genera un eccesso di offerta di moneta, i privati compreranno titoli spingendone i prezzi verso l’alto ( e il tasso d‘interesse verso il basso), ciò comporterà un aumento della domanda di beni di investimento e quindi sul reddito.",
+      "-Un aumento dell’offerta di moneta genera un eccesso di offerta di moneta, le imprese utilizzeranno questo eccesso per incrementare gli investimenti, aumenterà il reddito, la maggiore richiesta di beni di investimenti li renderà però scarsi,aumentando il tasso di interesse riducendo parzialmente l’incremento di reddito.",
+      "-Un aumento dell’offerta di moneta genera un eccesso di offerta di moneta, i privati utilizzeranno la moneta in eccesso per incrementare i loro consumi, aumenterà il reddito, ma per l’operare dello spiazzamento finanziario si ridurranno gli investimenti e, quindi, crescerà il tasso di interesse.",
+      "-Un aumento dell’offerta di moneta genera un eccesso di offerta di moneta, i privati venderanno titoli spingendone i prezzi verso il basso, facendo cadere il tasso di interesse, ciò comporterà un aumento della domanda di beni di investimenti e quindi del reddito.",
+      "-una riduzione dell’offerta di moneta genera un eccesso di domanda di moneta, i privati venderanno titoli spingendo i prezzi verso il basso (e il tasso d’interesse verso l’alto), ciò comporterà una riduzione della domanda di beni di investimento e quindi del reddito",
+      "-una riduzione dell’offerta di moneta genera un eccesso di domanda di moneta, i privati comprano i titoli spingendo i prezzi verso il basso (e il tasso d’interesse verso l’alto), ciò comporterà una riduzione della domanda di beni di investimento e quindi del reddito",
+      "-una riduzione dell’offerta di moneta genera un eccesso di domanda di moneta, i privati venderanno titoli spingendo i prezzi verso il basso (e il tasso d’interesse verso l’alto), ciò comporterà un aumento della domanda di beni di investimento e quindi del reddito",
+      "-una riduzione dell’offerta di moneta genera un eccesso di domanda di moneta, i privati compreranno i titoli spingendo i prezzi verso l’alto (e il tasso d’interesse verso il basso), ciò comporterà una riduzione della domanda di beni di investimento e quindi del reddito",
+      "-Avrà convenienza a specializzarsi nella produzione del bene il cui costo è comparativamente minore, procurandosi la quantità desiderata dall’altro bene attraverso le importazioni."
+    ],
+    "correct_answer": "-Avrà convenienza a specializzarsi nella produzione del bene il cui costo è comparativamente minore, procurandosi la quantità desiderata dall’altro bene attraverso le importazioni."
+  },
+  {
+    "question": "A cosa corrisponde la base monetaria?",
+    "options": [
+      "-Passivo del bilancio della banca centrale.",
+      "-Attivo del bilancio della banca centrale.",
+      "-Passivo del bilancio consolidato del sistema bancario."
+    ],
+    "correct_answer": "-Passivo del bilancio della banca centrale."
+  },
+  {
+    "question": "Cosa implica l’incoerenza temporale applicata al Trade-off tra inflazione e disoccupazione se gli operatori hanno aspettative razionali e la banca centrale opera in un regime discrezionale?",
+    "context_equations": [
+      "disoccupazione maggiore del tasso naturale"
+    ],
+    "options": [
+      "-Disoccupazione minore del tasso naturale",
+      "-inflazione nulla"
+    ],
+    "correct_answer": null
+  },
+  {
+    "question": "Cos’è la flexicurity?",
+    "context_equations": [
+      "Modello di welfare che cerca di compensare l’accrescimento dei rischi dei lavoratori generato da una maggiore flessibilità del loro impiego da parte delle imprese con più efficaci ammortizzatori sociali e con politiche attive del lavoro",
+      "La figura mostra l’aggiustamento dei mercati A ad E nel modello Mundell-Fleming, identificare il caso descritto",
+      "tra le seguenti: GRAFICO"
+    ],
+    "options": [
+      "-Cambi flessibili partendo dal deficit della bilancia dei pagamenti",
+      "-Cambi fissi partendo dal surplus della bilancia dei pagamenti",
+      "-Cambi fissi partendo dal deficit della bilancia dei pagamenti",
+      "-Cambi flessibili partendo dal surplus della bilancia dei pagamenti"
+    ],
+    "correct_answer": "-Cambi flessibili partendo dal deficit della bilancia dei pagamenti"
+  },
+  {
+    "question": "Considerata la seguente figura, quale è il “first best” per la banca centrale?",
+    "options": [
+      "-E4",
+      "-E1",
+      "-E2",
+      "-E3"
+    ],
+    "correct_answer": "-E1"
+  },
+  {
+    "question": "Considerata la seguente figura, quale è il “second best” per la banca centrale?",
+    "options": [
+      "-E4",
+      "-E1",
+      "-E2",
+      "-E3"
+    ],
+    "correct_answer": "-E2"
+  },
+  {
+    "question": "Considerate la seguente figura, in un regime discrezionale quale sarebbe l’equilibrio su cui convergerebbe l’economia se la banca centrale promettesse di mantenere l’inflazione pari a zero?",
+    "options": [
+      "-E2",
+      "-E1",
+      "-E3",
+      "-E4"
+    ],
+    "correct_answer": "-E3"
+  },
+  {
+    "question": "Quale tipo di politica è descritta nella figura sottostante?",
+    "options": [
+      "-Una politica fiscale accomodante.",
+      "-una politica monetaria accomodante.",
+      "-una politica fiscale non accomodante.",
+      "-Una politica monetaria non accomodante."
+    ],
+    "correct_answer": "-Una politica monetaria non accomodante."
+  },
+  {
+    "question": "Quale tipo di politica è descritta nella figura sottostante?",
+    "context_equations": [
+      "Considerato il ciclo politico-economico descritto nella figura sottostante ed individuate il punto in cui si trova l’economia subito dopo le elezioni (ossia prima che le aspettative si siano aggiustate). Pag 158",
+      "Considerato il ciclo politico-economico descritto nella figura sottostante ed individuate il punto in cui si trova l’economia dopo che il governo abbia implementato una politica anti-inflazionistica e dopo che le aspettative si siano aggiustate.",
+      "Considerate il ciclo politico-economico descritto nella figura sottostante ed individuate il punto in cui si trova l’economia dopo che il governo abbia implementato una politica anti-inflazionistica prima che le aspettative si sono aggiustate."
+    ],
+    "options": [
+      "-Una politica fiscale accomodante.",
+      "-una politica monetaria accomodante.",
+      "-una politica fiscale non accomodante.",
+      "-Una politica monetaria non accomodante.",
+      "-Punto D",
+      "-Punto A",
+      "-Punto B",
+      "-Punto C",
+      "-Punto D;",
+      "-Punto C;",
+      "-Punto B;",
+      "-Punto A;"
+    ],
+    "correct_answer": "-Punto D;"
+  },
+  {
+    "question": "Nella figura seguente sono rappresentate due curve di apprendimento in un settore economico. Le curve si riferiscono a due diversi paesi: Italia e Germania. Assumendo che la Germania operi già sul mercato (e abbia prodotto una quantità corrispondente al punto A), mentre l’industria italiana non si è ancora sviluppata. Cosa possiamo affermare?",
+    "options": [
+      "-L’industria italiana non potrà nascere se non supportata da una iniziale politica protezionistica.",
+      "-L’industria italiana non potrà nascere a prescindere dalla politica protezionistica, perché meno efficiente in termini dinamici.",
+      "-L’industria italiana ha bisogno di una politica protezionistica persistente per essere competitiva.",
+      "-L’industria italiana non ha bisogno di un’iniziale politica protezionistica per imporsi."
+    ],
+    "correct_answer": "-L’industria italiana non ha bisogno di un’iniziale politica protezionistica per imporsi."
+  },
+  {
+    "question": "Nella figura seguente sono rappresentate due curve di apprendimento in un settore economico. Le curve si riferiscono a due diversi paesi: Italia e Germania. Assumendo che la Germania operi già sul mercato (e abbia prodotto una quantità corrispondente al punto B), mentre l’industria italiana non si è ancora sviluppata. Cosa possiamo affermare?",
+    "context_equations": [
+      "La figura seguente descrive gli effetti di un dazio in una piccola economia aperta. Determinare l’ammontare del dazio unitario:",
+      "La figura seguente descrive gli effetti di un dazio in una piccola economia aperta. determinare l’ammontare delle importazioni dopo l’introduzione del dazio."
+    ],
+    "options": [
+      "-L’industria italiana non potrà nascere se non supportata da una iniziale politica protezionistica.",
+      "-L’industria italiana non potrà nascere a prescindere dalla politica protezionistica, perché meno efficiente in termini dinamici.",
+      "-L’industria italiana ha bisogno di una politica protezionistica persistente per essere competitiva.",
+      "-L’industria italiana non ha bisogno di un’iniziale politica protezionistica per imporsi.",
+      "-PA",
+      "-PT – PW",
+      "-PT",
+      "-PA-PT",
+      "-Q4-Q1",
+      "-Q3-Q1",
+      "-(Q2-Q1) + (Q4-Q3)",
+      "-Q3-Q2"
+    ],
+    "correct_answer": "-Q3-Q2"
+  },
+  {
+    "question": "La figura seguente descrive gli effetti di un dazio in una piccola economia aperta. Cosa implica l’introduzione del dazio in termini di consumo interno?",
+    "options": [
+      "-Un aumento pari a (Q2-Q1) + (Q4-Q3)",
+      "-Una riduzione pari a (Q4-Q3)",
+      "-Una riduzione pari a (Q2-Q1) + (Q4-Q3)",
+      "-Un aumento pari a (Q2-Q1)"
+    ],
+    "correct_answer": "-Una riduzione pari a (Q4-Q3)"
+  },
+  {
+    "question": "Cosa implica l’introduzione del dazio in termini di importazioni?",
+    "options": [
+      "-Una riduzione da (Q4-Q1) A (Q2-Q1)",
+      "-Un aumento da (Q3-Q2) a (Q4-Q1)",
+      "-Un aumento da (Q2-Q1) a (Q4-Q1)",
+      "-Una riduzione da (Q4-Q1) a (Q3-Q2)"
+    ],
+    "correct_answer": "-Una riduzione da (Q4-Q1) a (Q3-Q2)"
+  },
+  {
+    "question": "Cosa implica l’introduzione del dazio in termini della produzione interna?",
+    "context_equations": [
+      "Indicare il grafico che descrive gli effetti della politica fiscale quando si assume perfetta mobilità dei capitali e cambi flessibili:",
+      "Indicare il grafico che descrive gli effetti della politica fiscale quando si assume perfetta mobilità dei capitali e cambi fissi:",
+      "Indicare il grafico che descrive gli effetti della politica monetaria quando si assume perfetta mobilità dei capitali e cambi fissi:",
+      "Indicare il grafico che descrive gli effetti della politica monetaria quando si assume perfetta mobilità dei capitali e cambi flessibili:"
+    ],
+    "options": [
+      "-Un aumento da Q1 a Q4",
+      "-Un aumento da Q2 a Q3",
+      "-Un aumento da Q1 a Q2",
+      "-Un aumento da Q3 a Q4"
+    ],
+    "correct_answer": "-Un aumento da Q1 a Q2"
+  },
+  {
+    "question": "Considerando la figura seguente, cosa possiamo dire di un intervento pubblico che sposta l’economia da A a D?",
+    "options": [
+      "-l’intervento pubblico rappresenta un parziale fallimento poiché è pur avendo migliorato l’efficienza non è riuscito ad ottenere equità",
+      "-l’intervento pubblico non ho avuto successo poiché ha portato l’economia su un second Best",
+      "-l’intervento pubblico rappresenta un fallimento poiché non è riuscito ad ottenere né efficienza né equità",
+      "-l’intervento pubblico ha prodotto un miglioramento e non si può parlare di fallimento"
+    ],
+    "correct_answer": "-l’intervento pubblico non ho avuto successo poiché ha portato l’economia su un second Best"
+  },
+  {
+    "question": "Considerando la figura seguente, cosa possiamo dire confrontando B con C? Figura",
+    "options": [
+      "-I due punti non sono confrontabili secondo il criterio di pareto",
+      "-Spostandosi da C a B si realizzerebbe un miglioramento paretiano",
+      "-Ad entrambi i punti sarebbe preferibile D",
+      "-Spostandosi da B a C si realizzerebbe un miglioramento paretiano"
+    ],
+    "correct_answer": "-I due punti non sono confrontabili secondo il criterio di pareto"
+  },
+  {
+    "question": ".  Considerando solo i tre stati del mondo A,B,C descritti nella figura ,quali sono quelli efficienti?",
+    "options": [
+      "-Nessuno dei tre",
+      "-Lo stato B",
+      "-Gli stati A B e C",
+      "-Lo stato A"
+    ],
+    "correct_answer": "-Lo stato A"
+  },
+  {
+    "question": "Considerando solo i tre stati del mondo A,B,C descritti nella figura ,quali sono quelli efficienti?",
+    "options": [
+      "-nessuno dei tre",
+      "-Gli stati A B C",
+      "-Gli stati B e C",
+      "-Lo stato A"
+    ],
+    "correct_answer": "-Gli stati A B C"
+  },
+  {
+    "question": "Considerando solo i tre stati del mondo A,B,C descritti nella figura ,quali sono quelli efficienti?",
+    "options": [
+      "-nessuno dei tre",
+      "-Gli stati A B C",
+      "-Gli stati B e C",
+      "-Lo stato A"
+    ],
+    "correct_answer": "-Gli stati A B C"
+  },
+  {
+    "question": "Considerando solo i tre stati del mondo A,B,C descritti nella figura ,quali sono quelli efficienti?",
+    "options": [
+      "-Lo stato B",
+      "-Lo stato A",
+      "-Lo stato C",
+      "-Gli stati B e C"
+    ],
+    "correct_answer": "-Gli stati B e C"
+  },
+  {
+    "question": "Considerando solo i tre stati del mondo A,B,C descritti nella figura ,quali sono quelli efficienti?",
+    "options": [
+      "-Lo stato A",
+      "-Lo stato B",
+      "-Nessuno dei tre",
+      "-Lo stato C"
+    ],
+    "correct_answer": "-Lo stato C"
+  },
+  {
+    "question": "Considerando solo i tre stati del mondo A,B,C descritti nella figura ,quali sono quelli efficienti?",
+    "options": [
+      "-Gli stati B e C",
+      "-Lo stato A",
+      "-Lo stato B",
+      "-Lo stato C"
+    ],
+    "correct_answer": "-Gli stati B e C"
+  },
+  {
+    "question": "Quali sono i fondamenti della moderna teoria del commercio internazionale?",
+    "options": [
+      "-tasso di rendimento sul capitale meno miglioramento previsto dal margine di profitto",
+      "-Miglioramento previsto dalla produttività meno tasso di inflazione",
+      "-Miglioramento previsto dal margine di profitto meno tasso di rendimento sul capitale",
+      "-Tasso di inflazione meno miglioramento previsto della produttività"
+    ],
+    "correct_answer": "-Tasso di inflazione meno miglioramento previsto della produttività"
+  },
+  {
+    "question": "Nel dibattito tra regole e discrezionalità, qual’è la posizione dei keynesiani?",
+    "options": [
+      "-Concepiscono i mercati come efficienti e stabili e ritengono che l’intervento pubblico sia soggetto a errori, per questo motivo ogni intervento pubblico deve essere basato su regole automatiche",
+      "-Concepiscono i mercati come efficienti e stabili e ritengono necessaria un’azione correttiva basata su azioni discrezionali",
+      "-Concepiscono i mercati molto instabili e reputano necessaria un’azione correttiva discrezionale da parte degli organi pubblici",
+      "-Concepiscono i mercati molto instabili e reputano necessaria un’azione correttiva basata su regole automatiche attuate da parte degli organi pubblici"
+    ],
+    "correct_answer": "-Concepiscono i mercati molto instabili e reputano necessaria un’azione correttiva discrezionale da parte degli organi pubblici"
+  },
+  {
+    "question": "Su quale criterio di efficienza si basa il primo teorema dell’economia del benessere?",
+    "context_equations": [
+      "Nella realtà l’intervento pubblico non realizza sempre appieno le sue potenzialità come indicati dalla teoria normativa della politica economica,un esempio è rappresentato dalle imposte pigouviane:"
+    ],
+    "options": [
+      "-Efficienza X",
+      "-Efficienza paretiana",
+      "-Efficienza dinamica",
+      "-Efficienza produttiva",
+      "-che non eliminano le esternalità",
+      "-di cui non beneficiano i poveri",
+      "-che non incrementano la concorrenza del mercato",
+      "-che destabilizzano il ciclo economico"
+    ],
+    "correct_answer": "-che non eliminano le esternalità"
+  },
+  {
+    "question": "In termini di efficienza, quali sono le implicazioni dell’introduzione di un dazio in una piccola economia aperta?",
+    "options": [
+      "-sono negative, perché i benefici per i produttori al netto del maggior gettito fiscale sono minori dei costi che ricadono sui consumatori",
+      "-sono positive, perché i benefici per i produttori al netto della maggiore pressione fiscale che il dazio implica su di loro sono maggiori dei costi che ricadono sui consumatori",
+      "-sono negative a causa della maggiore pressione fiscale che il dazio implica sui produttori",
+      "-sono positive a causa del maggior gettito fiscale che il dazio implica per il governo."
+    ],
+    "correct_answer": "-sono negative, perché i benefici per i produttori al netto del maggior gettito fiscale sono minori dei costi che ricadono sui consumatori"
+  },
+  {
+    "question": "Quali sono le ipotesi del modello di Nordhaus del ciclo politico economico?",
+    "options": [
+      "-i politici hanno come obiettivo quello di essere rieletti, l’economia è influenzata dall’andamento delle elezioni che a sua volta è influenzata dalle politiche e gli elettori sono ultra razionali",
+      "-i politici hanno come obiettivo quello di essere rieletti, le elezioni sono influenzate dall’andamento dell’economia che a sua volta è influenzata dalle politiche e gli elettori sono miopi",
+      "-i politici hanno come obiettivo quello di essere rieletti, l’economia è influenzata dall'andamento delle elezioni che a sua volta è influenzata dalle politiche e gli elettori sono miopi",
+      "-i politici hanno come obiettivo quello di massimizzare la funzione di benessere sociale, le elezioni sono influenzate dall’andamento dell’economia, che a sua volta è influenzata dalle politiche, e gli elettori sono miopi."
+    ],
+    "correct_answer": "-i politici hanno come obiettivo quello di essere rieletti, le elezioni sono influenzate dall’andamento dell’economia che a sua volta è influenzata dalle politiche e gli elettori sono miopi"
+  },
+  {
+    "question": "Come funziona il canale di creazione di base monetaria: operazioni di mercato aperto? Le banche centrali emettono:",
+    "options": [
+      "-Le banche centrali emettono moneta in contropartita all’acquisto di titoli finanziari esistenti sui mercati finanziari (titoli pubblici sul mercato secondario)",
+      "-Le banche centrali emettono moneta per coprire le spese dei governi acquistando titoli sul mercato primario",
+      "-Le banche centrali emettono base monetaria per rispondere alle richieste di finanziamento delle banche e delle aziende di credito",
+      "-Le banche centrali emettono moneta in contropartita all’acquisto di valuta estera"
+    ],
+    "correct_answer": "-Le banche centrali emettono moneta in contropartita all’acquisto di titoli finanziari esistenti sui mercati finanziari (titoli pubblici sul mercato secondario)"
+  },
+  {
+    "question": "La presenza di perdite delle imprese pubbliche operanti in settori con costi medi decrescenti è un indice della loro inefficienza?",
+    "options": [
+      "-Si poiché le perdite implicano un trasferimento dei costi eccessivi sui contribuenti",
+      "-No perché le perdite delle imprese pubbliche sono ripianate dal bilancio pubblico",
+      "-Si poiché queste perdite sono indicatori degli incentivi perversi del management pubblico e potenziale clientelismo",
+      "-No in questo caso le imprese pubbliche possono assicurare l’efficienza in un settore che non riesce a combinare efficienza e profitti"
+    ],
+    "correct_answer": "-No in questo caso le imprese pubbliche possono assicurare l’efficienza in un settore che non riesce a combinare efficienza e profitti"
+  },
+  {
+    "question": "quale delle seguenti argomentazioni può essere utilizzata a favore della libera circolazione dei capitali?",
+    "context_equations": [
+      "riduce i rischi legati all’effetto gregge nel funzionamenti dei mercati finanziari",
+      "contribuisce a rafforzare l’autonomia di un paese nella gestione della politica monetaria in cambi fissi",
+      "Considerate un mercato in cui la curva di domanda e di offerta sono le seguenti: Domanda di mercato: p =- 5 q + 10; offerta di mercato: p= 1q. determinare la differenza del prezzo di equilibrio tra il monopolio e la concorrenza perfetta (p= prezzo, q=quantità):",
+      "Considerate un mercato in cui la curva di domanda e di offerta sono le seguenti: Domanda di mercato: p =- 10q + 10; offerta di mercato: p= 6q. determinare la differenza del prezzo di equilibrio tra il monopolio e la concorrenza perfetta (p= prezzo, q=quantità):",
+      "Considerate un mercato in cui la curva di domanda e di offerta sono le seguenti: Domanda di mercato: p =- 3 q + 10; offerta di mercato: p= 3q . determinare la differenza del prezzo di equilibrio tra il monopolio e la concorrenza perfetta (p= prezzo, q=quantità):",
+      "Domanda di mercato: p =- 3 q + 10 Offerta di mercato: p= 3q",
+      "PREZZO CONCORRENZA: D = O:",
+      "q = 10/6",
+      "p = 3 *10/6",
+      "p = 5 (prezzo concorrenza perfetta)",
+      "CMA = RMA CMA = OFFERTA RICAVO = p*q:",
+      "RICAVO: -3q+10 (*q) = -3q +10q",
+      "RMA = dR (derivo ricavo:-3q +10q )",
+      "RMA = -6q+10",
+      "RMA = CMA:",
+      "q = 10/9",
+      "p = -3*10/9 + 10",
+      "p = 20/3 (prezzo monopolio)",
+      "PREZZO CONCORRENZA= 5 PREZZO MONOPOLIO = 20/3 SOLUZIONE: 20/3 - 5 = 5/3",
+      "Considerate un mercato in cui la curva di domanda e di offerta sono le seguenti: domanda di mercato: p= -5q+10 offerta di mercato:p=4q. Determinare il prezzo fissato dal monopolista [p=prezzo, q=quantità]"
+    ],
+    "options": [
+      "-3q+10 = 3q (trovo q)",
+      "-6q+10 = 3q"
+    ],
+    "correct_answer": null
+  },
+  {
+    "question": "Quale delle seguenti situazioni può implicare l’emergere di una esternalità?",
+    "options": [
+      "-presenza di beni non omogenei",
+      "-presenza di monopoli naturali",
+      "-assenza di accordi o intese tra gli operatori",
+      "- Presenza di attività di produzione o consumo congiunto"
+    ],
+    "correct_answer": "- Presenza di attività di produzione o consumo congiunto"
+  },
+  {
+    "question": "Quando si parla di disoccupazione involontaria?",
+    "context_equations": [
+      "Quando vi siano lavoratori disposti a lavorare al salario di mercato, ma non vi sia offerta di lavoro sufficiente ad impiegarli."
+    ],
+    "options": [
+      "-Quando vi siano lavoratori disposti a lavorare al salario di mercato, ma non vi sia domanda di lavoro sufficiente ad impiegarli.",
+      "-quando vi siano lavoratori disposti a lavorare ma il salario di mercato risulta essere troppo alto bene impiegarli.",
+      "-Quando vi siano lavoratori disposti a lavorare ma il salario di mercato risulta essere troppo basso per essere accettato."
+    ],
+    "correct_answer": "-Quando vi siano lavoratori disposti a lavorare al salario di mercato, ma non vi sia domanda di lavoro sufficiente ad impiegarli."
+  },
+  {
+    "question": "In un regime di concorrenza perfetta, cosa suggerire al produttore se il prezzo di mercato è 21, il costo marginale è 21 e quello medio è 15?",
+    "context_equations": [
+      "Assumendo che gli occupati siano 2880 e i disoccupati 120, calcolare il tasso di disoccupazione:"
+    ],
+    "options": [
+      "-Ridurre la produzione",
+      "-Aumentare la produzione",
+      "-Non fare nulla",
+      "-Uscire dal mercato",
+      "-0.08",
+      "-0.04",
+      "-0.06",
+      "-0.02"
+    ],
+    "correct_answer": "-0.04"
+  },
+  {
+    "question": "Quando si ha un monopolio legale?",
+    "options": [
+      "-Quando la struttura dei costi fissi permette di produrre nel punto in cui il ricavo marginale è uguale al costo marginale",
+      "-Quando norme di legge prevedono l’unicità del soggetto offerente",
+      "-Quando un’impresa si trova a essere l’unica offerente, indipendentemente dalla presenza di economia di scala",
+      "-Quando esistono accentuate economie di scala in relazione al mercato in questione"
+    ],
+    "correct_answer": "-Quando norme di legge prevedono l’unicità del soggetto offerente"
+  },
+  {
+    "question": "Confrontando il Van assoluto e il Van relativo di un progetto, quale delle seguenti affermazioni corretta?",
+    "options": [
+      "-Se un progetto è ammissibile con un criterio non lo è sempre anche con l’altro, ma le graduatorie risultanti saranno le stesse",
+      "-se un progetto è ammissibile con un criterio lo è anche con l’altro e viceversa, le graduatorie risultanti saranno le stesse",
+      "-se un progetto è ammissibile con un criterio non lo è sempre anche con l’altro e le graduatorie risultanti potranno essere diverse",
+      "-se un progetto è ammissibile con un criterio lo è anche con l’altro e viceversa, ma le graduatorie possono essere diverse"
+    ],
+    "correct_answer": "-se un progetto è ammissibile con un criterio lo è anche con l’altro e viceversa, ma le graduatorie possono essere diverse"
+  }
+]
