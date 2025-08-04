@@ -70,6 +70,13 @@
 <body>
   <div class="container">
     <h1>Political Economy Flashcards</h1>
+    <label for="setSelect"><strong>Select Question Set:</strong></label>
+    <select id="setSelect" onchange="changeSet()">
+      <option value="set1">Set 1</option>
+      <option value="set2">Set 2</option>
+      <option value="set3">Set 3</option>
+      <option value="set4">Set 4</option>
+    </select>
     <div id="status"></div>
     <div class="progress-bar">
       <div id="progress" class="progress-fill" style="width: 0%"></div>
@@ -86,25 +93,32 @@
 
   <script>
     let flashcards = [];
-
     let current = 0;
     let score = 0;
+    let sets = {};
+    let selectedSet = 'set1';
 
-    async function loadFlashcards() {
+    async function loadSets() {
       try {
-        const res = await fetch('question.json');
-        flashcards = await res.json();
-        // Shuffle flashcards
-        for (let i = flashcards.length - 1; i > 0; i--) {
-          const j = Math.floor(Math.random() * (i + 1));
-          [flashcards[i], flashcards[j]] = [flashcards[j], flashcards[i]];
-        }
-        current = 0;
-        score = 0;
-        loadQuestion();
+        const res = await fetch('question_sets.json');
+        sets = await res.json();
+        changeSet();
       } catch (e) {
         document.getElementById("question").innerText = "Impossibile caricare le domande.";
       }
+    }
+
+    function changeSet() {
+      selectedSet = document.getElementById('setSelect').value;
+      flashcards = sets[selectedSet] || [];
+      // Shuffle flashcards
+      for (let i = flashcards.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [flashcards[i], flashcards[j]] = [flashcards[j], flashcards[i]];
+      }
+      current = 0;
+      score = 0;
+      loadQuestion();
     }
     function loadQuestion() {
       if (!flashcards.length) return;
@@ -150,7 +164,7 @@
       loadQuestion();
     }
 
-    loadFlashcards();
+    loadSets();
   </script>
 </body>
 </html>
